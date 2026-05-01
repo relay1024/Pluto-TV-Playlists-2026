@@ -1631,6 +1631,11 @@
         <desc>In the late 1960s, the Beach Boys' Brian Wilson stops touring, produces "Pet Sounds" and begins to lose his grip on reality. By the 1980s, Wilson, under the sway of a controlling therapist, finds a savior in Melinda Ledbetter.</desc>
         <icon src="https://images.pluto.tv/series/64c3c2f112c80e001396c36f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="64a3d96f060e830008af6745" start="20260501200600 +0000" stop="20260501221900 +0000">
+        <title>Lion</title>
+        <desc>A boy endures abuse at the hands of his father.</desc>
+        <icon src="https://plut.tmsimg.com/assets/p18196722_v_s4_ac.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="64f8a408bd341e000818fcda" start="20260501151300 +0000" stop="20260501153800 +0000">
         <title>Key &amp; Peele</title>
         <desc>Commitment looms for Jordan and Keegan after gay marriage is finally legalized.</desc>
@@ -14936,15 +14941,95 @@
         <desc>Dora and Boots are having a blast at the beach when all of a sudden they hear a call for help. It's a baby crab stuck in a net!</desc>
         <icon src="https://images.pluto.tv/series/62d70c959f6f470014961bd9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62e95265c9fd030007268fb9" start="20260501193000 +0000" stop="20260501233000 +0000">
+    <programme channel="62e95265c9fd030007268fb9" start="20260501190700 +0000" stop="20260501193700 +0000">
         <title>Totally Turtles</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/62e95265c9fd030007268fb9/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <desc>Booyakasha! Straight from the sewers, the Teenage Mutant Ninja Turtles are here and ready to take on alien and mutant enemies alike. Grab some pizza and get ready for maximum Turtle Power! This is TOTALLY TURTLES on Pluto TV!</desc>
+        <icon src="https://images.pluto.tv/series/68089d4456ff83bcd6c61a6f/tile_1745395264865.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62e9566e27ce19000732ec85" start="20260501193000 +0000" stop="20260501233000 +0000">
-        <title>Tortues Ninja TV</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/62e9566e27ce19000732ec85/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="62e95265c9fd030007268fb9" start="20260501193700 +0000" stop="20260501200700 +0000">
+        <title>Totally Turtles</title>
+        <desc>Booyakasha! Straight from the sewers, the Teenage Mutant Ninja Turtles are here and ready to take on alien and mutant enemies alike. Grab some pizza and get ready for maximum Turtle Power! This is TOTALLY TURTLES on Pluto TV!</desc>
+        <icon src="https://images.pluto.tv/series/68089d4456ff83bcd6c61a6f/tile_1745395264865.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e95265c9fd030007268fb9" start="20260501200700 +0000" stop="20260501203700 +0000">
+        <title>Totally Turtles</title>
+        <desc>Booyakasha! Straight from the sewers, the Teenage Mutant Ninja Turtles are here and ready to take on alien and mutant enemies alike. Grab some pizza and get ready for maximum Turtle Power! This is TOTALLY TURTLES on Pluto TV!</desc>
+        <icon src="https://images.pluto.tv/series/68089d4456ff83bcd6c61a6f/tile_1745395264865.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e95265c9fd030007268fb9" start="20260501203700 +0000" stop="20260501210700 +0000">
+        <title>Totally Turtles</title>
+        <desc>Booyakasha! Straight from the sewers, the Teenage Mutant Ninja Turtles are here and ready to take on alien and mutant enemies alike. Grab some pizza and get ready for maximum Turtle Power! This is TOTALLY TURTLES on Pluto TV!</desc>
+        <icon src="https://images.pluto.tv/series/68089d4456ff83bcd6c61a6f/tile_1745395264865.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e95265c9fd030007268fb9" start="20260501210700 +0000" stop="20260501213700 +0000">
+        <title>Totally Turtles</title>
+        <desc>Booyakasha! Straight from the sewers, the Teenage Mutant Ninja Turtles are here and ready to take on alien and mutant enemies alike. Grab some pizza and get ready for maximum Turtle Power! This is TOTALLY TURTLES on Pluto TV!</desc>
+        <icon src="https://images.pluto.tv/series/68089d4456ff83bcd6c61a6f/tile_1745395264865.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e95265c9fd030007268fb9" start="20260501213700 +0000" stop="20260501220700 +0000">
+        <title>Totally Turtles</title>
+        <desc>Booyakasha! Straight from the sewers, the Teenage Mutant Ninja Turtles are here and ready to take on alien and mutant enemies alike. Grab some pizza and get ready for maximum Turtle Power! This is TOTALLY TURTLES on Pluto TV!</desc>
+        <icon src="https://images.pluto.tv/series/68089d4456ff83bcd6c61a6f/tile_1745395264865.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e95265c9fd030007268fb9" start="20260501220700 +0000" stop="20260501223700 +0000">
+        <title>Totally Turtles</title>
+        <desc>Booyakasha! Straight from the sewers, the Teenage Mutant Ninja Turtles are here and ready to take on alien and mutant enemies alike. Grab some pizza and get ready for maximum Turtle Power! This is TOTALLY TURTLES on Pluto TV!</desc>
+        <icon src="https://images.pluto.tv/series/68089d4456ff83bcd6c61a6f/tile_1745395264865.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e95265c9fd030007268fb9" start="20260501223700 +0000" stop="20260501230700 +0000">
+        <title>Totally Turtles</title>
+        <desc>Booyakasha! Straight from the sewers, the Teenage Mutant Ninja Turtles are here and ready to take on alien and mutant enemies alike. Grab some pizza and get ready for maximum Turtle Power! This is TOTALLY TURTLES on Pluto TV!</desc>
+        <icon src="https://images.pluto.tv/series/68089d4456ff83bcd6c61a6f/tile_1745395264865.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e95265c9fd030007268fb9" start="20260501230700 +0000" stop="20260501233700 +0000">
+        <title>Totally Turtles</title>
+        <desc>Booyakasha! Straight from the sewers, the Teenage Mutant Ninja Turtles are here and ready to take on alien and mutant enemies alike. Grab some pizza and get ready for maximum Turtle Power! This is TOTALLY TURTLES on Pluto TV!</desc>
+        <icon src="https://images.pluto.tv/series/68089d4456ff83bcd6c61a6f/tile_1745395264865.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e9566e27ce19000732ec85" start="20260501190600 +0000" stop="20260501193600 +0000">
+        <title>Tortues Ninja</title>
+        <desc>Booyakasha! Tout droit sortis des égouts, les Tortues Ninja sont là et prêtes à affronter des extraterrestres et des mutants. Prenez une part de pizza et préparez-vous pour un maximum de puissance de Tortues Ninja!</desc>
+        <icon src="https://images.pluto.tv/series/680b5ce16fd328dbfee05076/tile_1745575406525.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e9566e27ce19000732ec85" start="20260501193600 +0000" stop="20260501200600 +0000">
+        <title>Tortues Ninja</title>
+        <desc>Booyakasha! Tout droit sortis des égouts, les Tortues Ninja sont là et prêtes à affronter des extraterrestres et des mutants. Prenez une part de pizza et préparez-vous pour un maximum de puissance de Tortues Ninja!</desc>
+        <icon src="https://images.pluto.tv/series/680b5ce16fd328dbfee05076/tile_1745575406525.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e9566e27ce19000732ec85" start="20260501200600 +0000" stop="20260501203600 +0000">
+        <title>Tortues Ninja</title>
+        <desc>Booyakasha! Tout droit sortis des égouts, les Tortues Ninja sont là et prêtes à affronter des extraterrestres et des mutants. Prenez une part de pizza et préparez-vous pour un maximum de puissance de Tortues Ninja!</desc>
+        <icon src="https://images.pluto.tv/series/680b5ce16fd328dbfee05076/tile_1745575406525.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e9566e27ce19000732ec85" start="20260501203600 +0000" stop="20260501210600 +0000">
+        <title>Tortues Ninja</title>
+        <desc>Booyakasha! Tout droit sortis des égouts, les Tortues Ninja sont là et prêtes à affronter des extraterrestres et des mutants. Prenez une part de pizza et préparez-vous pour un maximum de puissance de Tortues Ninja!</desc>
+        <icon src="https://images.pluto.tv/series/680b5ce16fd328dbfee05076/tile_1745575406525.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e9566e27ce19000732ec85" start="20260501210600 +0000" stop="20260501213600 +0000">
+        <title>Tortues Ninja</title>
+        <desc>Booyakasha! Tout droit sortis des égouts, les Tortues Ninja sont là et prêtes à affronter des extraterrestres et des mutants. Prenez une part de pizza et préparez-vous pour un maximum de puissance de Tortues Ninja!</desc>
+        <icon src="https://images.pluto.tv/series/680b5ce16fd328dbfee05076/tile_1745575406525.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e9566e27ce19000732ec85" start="20260501213600 +0000" stop="20260501220600 +0000">
+        <title>Tortues Ninja</title>
+        <desc>Booyakasha! Tout droit sortis des égouts, les Tortues Ninja sont là et prêtes à affronter des extraterrestres et des mutants. Prenez une part de pizza et préparez-vous pour un maximum de puissance de Tortues Ninja!</desc>
+        <icon src="https://images.pluto.tv/series/680b5ce16fd328dbfee05076/tile_1745575406525.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e9566e27ce19000732ec85" start="20260501220600 +0000" stop="20260501223600 +0000">
+        <title>Tortues Ninja</title>
+        <desc>Booyakasha! Tout droit sortis des égouts, les Tortues Ninja sont là et prêtes à affronter des extraterrestres et des mutants. Prenez une part de pizza et préparez-vous pour un maximum de puissance de Tortues Ninja!</desc>
+        <icon src="https://images.pluto.tv/series/680b5ce16fd328dbfee05076/tile_1745575406525.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e9566e27ce19000732ec85" start="20260501223600 +0000" stop="20260501230600 +0000">
+        <title>Tortues Ninja</title>
+        <desc>Booyakasha! Tout droit sortis des égouts, les Tortues Ninja sont là et prêtes à affronter des extraterrestres et des mutants. Prenez une part de pizza et préparez-vous pour un maximum de puissance de Tortues Ninja!</desc>
+        <icon src="https://images.pluto.tv/series/680b5ce16fd328dbfee05076/tile_1745575406525.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e9566e27ce19000732ec85" start="20260501230600 +0000" stop="20260501233600 +0000">
+        <title>Tortues Ninja</title>
+        <desc>Booyakasha! Tout droit sortis des égouts, les Tortues Ninja sont là et prêtes à affronter des extraterrestres et des mutants. Prenez une part de pizza et préparez-vous pour un maximum de puissance de Tortues Ninja!</desc>
+        <icon src="https://images.pluto.tv/series/680b5ce16fd328dbfee05076/tile_1745575406525.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="62ea4b755e8e770007387b79" start="20260501184800 +0000" stop="20260501193800 +0000">
         <title>World Poker Tour</title>
@@ -14982,9 +15067,9 @@
         <icon src="https://images.pluto.tv/series/69f0af8424d9b7beb5dd5ead/tile_1777467822457.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="62ea4dadce395f0007086df2" start="20260501210000 +0000" stop="20260501220000 +0000">
-        <title>TNA Wrestling</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/62ea4dadce395f0007086df2/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <title>IMPACT in 60</title>
+        <desc>Journey back to the memorable encounters from the Knockouts division featuring Jade, including her encounters with "The Demon Assassin" Rosemary.</desc>
+        <icon src="https://images.pluto.tv/series/642adbf96113a5001a8bbe4c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="62ea4dadce395f0007086df2" start="20260501220000 +0000" stop="20260501230000 +0000">
         <title>TNA in 60</title>
@@ -15126,15 +15211,65 @@
         <desc>Starved for energon, both Unicron's head and body begin lashing out at their respective captors.</desc>
         <icon src="https://images.pluto.tv/series/63c1a1388ffdc40013f31b57/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63f87d057533d80008ab9549" start="20260501193000 +0000" stop="20260501233000 +0000">
+    <programme channel="63f87d057533d80008ab9549" start="20260501193000 +0000" stop="20260501200000 +0000">
         <title>SpongeBob SquarePants</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/63f87d057533d80008ab9549/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <desc>Who lives in a pineapple under the sea? SpongeBob SquarePants! Follow the adventures of this enthusiastic, optimistic sponge whose good intentions inevitably lead him and his friends into trouble.</desc>
+        <icon src="https://images.pluto.tv/series/669146a93a4ad20008d330a6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6408b41b83f58900081d91ad" start="20260501193000 +0000" stop="20260501203900 +0000">
-        <title>Pluto TV Retro Kid</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/6408b41b83f58900081d91ad/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="63f87d057533d80008ab9549" start="20260501200000 +0000" stop="20260501203000 +0000">
+        <title>SpongeBob SquarePants</title>
+        <desc>Who lives in a pineapple under the sea? SpongeBob SquarePants! Follow the adventures of this enthusiastic, optimistic sponge whose good intentions inevitably lead him and his friends into trouble.</desc>
+        <icon src="https://images.pluto.tv/series/669146a93a4ad20008d330a6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63f87d057533d80008ab9549" start="20260501203000 +0000" stop="20260501210000 +0000">
+        <title>SpongeBob SquarePants</title>
+        <desc>Who lives in a pineapple under the sea? SpongeBob SquarePants! Follow the adventures of this enthusiastic, optimistic sponge whose good intentions inevitably lead him and his friends into trouble.</desc>
+        <icon src="https://images.pluto.tv/series/669146a93a4ad20008d330a6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63f87d057533d80008ab9549" start="20260501210000 +0000" stop="20260501213000 +0000">
+        <title>SpongeBob SquarePants</title>
+        <desc>Who lives in a pineapple under the sea? SpongeBob SquarePants! Follow the adventures of this enthusiastic, optimistic sponge whose good intentions inevitably lead him and his friends into trouble.</desc>
+        <icon src="https://images.pluto.tv/series/669146a93a4ad20008d330a6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63f87d057533d80008ab9549" start="20260501213000 +0000" stop="20260501220000 +0000">
+        <title>SpongeBob SquarePants</title>
+        <desc>Who lives in a pineapple under the sea? SpongeBob SquarePants! Follow the adventures of this enthusiastic, optimistic sponge whose good intentions inevitably lead him and his friends into trouble.</desc>
+        <icon src="https://images.pluto.tv/series/669146a93a4ad20008d330a6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63f87d057533d80008ab9549" start="20260501220000 +0000" stop="20260501223000 +0000">
+        <title>SpongeBob SquarePants</title>
+        <desc>Who lives in a pineapple under the sea? SpongeBob SquarePants! Follow the adventures of this enthusiastic, optimistic sponge whose good intentions inevitably lead him and his friends into trouble.</desc>
+        <icon src="https://images.pluto.tv/series/669146a93a4ad20008d330a6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63f87d057533d80008ab9549" start="20260501223000 +0000" stop="20260501230000 +0000">
+        <title>SpongeBob SquarePants</title>
+        <desc>Who lives in a pineapple under the sea? SpongeBob SquarePants! Follow the adventures of this enthusiastic, optimistic sponge whose good intentions inevitably lead him and his friends into trouble.</desc>
+        <icon src="https://images.pluto.tv/series/669146a93a4ad20008d330a6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63f87d057533d80008ab9549" start="20260501230000 +0000" stop="20260501233000 +0000">
+        <title>SpongeBob SquarePants</title>
+        <desc>Who lives in a pineapple under the sea? SpongeBob SquarePants! Follow the adventures of this enthusiastic, optimistic sponge whose good intentions inevitably lead him and his friends into trouble.</desc>
+        <icon src="https://images.pluto.tv/series/669146a93a4ad20008d330a6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63f87d057533d80008ab9549" start="20260501233000 +0000" stop="20260502000000 +0000">
+        <title>SpongeBob SquarePants</title>
+        <desc>Who lives in a pineapple under the sea? SpongeBob SquarePants! Follow the adventures of this enthusiastic, optimistic sponge whose good intentions inevitably lead him and his friends into trouble.</desc>
+        <icon src="https://images.pluto.tv/series/669146a93a4ad20008d330a6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6408b41b83f58900081d91ad" start="20260501192000 +0000" stop="20260501194500 +0000">
+        <title>Sonic Underground</title>
+        <desc>Robotnik's new weapon, Art, is the enforcer of Robotropolis new eradication policy.</desc>
+        <icon src="https://images.pluto.tv/series/6421e660737654001d825d0b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6408b41b83f58900081d91ad" start="20260501194500 +0000" stop="20260501201100 +0000">
+        <title>Sonic Underground</title>
+        <desc>Sleet and Dingo plan to collect the taxes owed to Robotnik from the Duke of Velcronia but keep it for themselves.</desc>
+        <icon src="https://images.pluto.tv/series/6421e660737654001d825d0b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6408b41b83f58900081d91ad" start="20260501201100 +0000" stop="20260501203900 +0000">
+        <title>Sabrina The Animated Series</title>
+        <desc>Sabrina has a crush on Dave, her new piano instructor.</desc>
+        <icon src="https://images.pluto.tv/series/64231d2020cb77001a8c3597/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6408b41b83f58900081d91ad" start="20260501203900 +0000" stop="20260501210700 +0000">
         <title>Sabrina The Animated Series</title>
@@ -15192,9 +15327,9 @@
         <icon src="https://images.pluto.tv/series/65e60c8c9255690013422b78/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="647f07e74cfc2c0008a2e557" start="20260501200600 +0000" stop="20260501221200 +0000">
-        <title>DAZN TV</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/647f07e74cfc2c0008a2e557/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <title>Bundesliga Soccer</title>
+        <desc>The Matchday 28 Bundesliga fixture between SC Freiburg and FC Bayern Munich takes place at the Europa-Park-Stadion in Freiburg. FC Bayern Munich currently sits in first place with 70 points, while SC Freiburg ranks eighth with 37 points.</desc>
+        <icon src="https://images.pluto.tv/series/65e60c8c9255690013422b78/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="647f07e74cfc2c0008a2e557" start="20260501221200 +0000" stop="20260501224300 +0000">
         <title>EFL Championship Show</title>
@@ -15276,25 +15411,185 @@
         <desc>Team Ha meets Team Morrison on the third day of preliminary play in the KIOTI GSOC Tahoe.</desc>
         <icon src="https://images.pluto.tv/series/69e57678d9ac4ac6ee5b7f99/tile_1777651564991.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="654100b4bdf3cf0008aa49c7" start="20260501193000 +0000" stop="20260501233000 +0000">
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20260501190008 +0000" stop="20260501193008 +0000">
         <title>MTV Classic</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/654100b4bdf3cf0008aa49c7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <desc>Soundtrack your day with MTV Classic, featuring the biggest and best songs of the 80s, 90s and 00s!</desc>
+        <icon src="https://images.pluto.tv/series/68d565cc66c3bfd5d697be9b/tile_1758815710677.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6541010f770cf1000866be98" start="20260501193000 +0000" stop="20260501233000 +0000">
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20260501193008 +0000" stop="20260501200008 +0000">
+        <title>MTV Classic</title>
+        <desc>Soundtrack your day with MTV Classic, featuring the biggest and best songs of the 80s, 90s and 00s!</desc>
+        <icon src="https://images.pluto.tv/series/68d565cc66c3bfd5d697be9b/tile_1758815710677.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20260501200008 +0000" stop="20260501203008 +0000">
+        <title>MTV Classic</title>
+        <desc>Soundtrack your day with MTV Classic, featuring the biggest and best songs of the 80s, 90s and 00s!</desc>
+        <icon src="https://images.pluto.tv/series/68d565cc66c3bfd5d697be9b/tile_1758815710677.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20260501203008 +0000" stop="20260501210008 +0000">
+        <title>MTV Classic</title>
+        <desc>Soundtrack your day with MTV Classic, featuring the biggest and best songs of the 80s, 90s and 00s!</desc>
+        <icon src="https://images.pluto.tv/series/68d565cc66c3bfd5d697be9b/tile_1758815710677.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20260501210008 +0000" stop="20260501213008 +0000">
+        <title>MTV Classic</title>
+        <desc>Soundtrack your day with MTV Classic, featuring the biggest and best songs of the 80s, 90s and 00s!</desc>
+        <icon src="https://images.pluto.tv/series/68d565cc66c3bfd5d697be9b/tile_1758815710677.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20260501213008 +0000" stop="20260501220008 +0000">
+        <title>MTV Classic</title>
+        <desc>Soundtrack your day with MTV Classic, featuring the biggest and best songs of the 80s, 90s and 00s!</desc>
+        <icon src="https://images.pluto.tv/series/68d565cc66c3bfd5d697be9b/tile_1758815710677.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20260501220008 +0000" stop="20260501223008 +0000">
+        <title>MTV Classic</title>
+        <desc>Soundtrack your day with MTV Classic, featuring the biggest and best songs of the 80s, 90s and 00s!</desc>
+        <icon src="https://images.pluto.tv/series/68d565cc66c3bfd5d697be9b/tile_1758815710677.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20260501223008 +0000" stop="20260501230008 +0000">
+        <title>MTV Classic</title>
+        <desc>Soundtrack your day with MTV Classic, featuring the biggest and best songs of the 80s, 90s and 00s!</desc>
+        <icon src="https://images.pluto.tv/series/68d565cc66c3bfd5d697be9b/tile_1758815710677.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654100b4bdf3cf0008aa49c7" start="20260501230008 +0000" stop="20260501233008 +0000">
+        <title>MTV Classic</title>
+        <desc>Soundtrack your day with MTV Classic, featuring the biggest and best songs of the 80s, 90s and 00s!</desc>
+        <icon src="https://images.pluto.tv/series/68d565cc66c3bfd5d697be9b/tile_1758815710677.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6541010f770cf1000866be98" start="20260501193000 +0000" stop="20260501200000 +0000">
         <title>MTV Spankin’ New</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/6541010f770cf1000866be98/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <desc>You hear it first! MTV SPANKIN’ NEW is the place to discover new artists before they become household names. It’s the ultimate music experience to stay ahead of the trends.</desc>
+        <icon src="https://images.pluto.tv/series/65450e3059dd91000863e04e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65410176770cf1000866bf31" start="20260501193000 +0000" stop="20260501233000 +0000">
+    <programme channel="6541010f770cf1000866be98" start="20260501200000 +0000" stop="20260501203000 +0000">
+        <title>MTV Spankin’ New</title>
+        <desc>You hear it first! MTV SPANKIN’ NEW is the place to discover new artists before they become household names. It’s the ultimate music experience to stay ahead of the trends.</desc>
+        <icon src="https://images.pluto.tv/series/65450e3059dd91000863e04e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6541010f770cf1000866be98" start="20260501203000 +0000" stop="20260501210000 +0000">
+        <title>MTV Spankin’ New</title>
+        <desc>You hear it first! MTV SPANKIN’ NEW is the place to discover new artists before they become household names. It’s the ultimate music experience to stay ahead of the trends.</desc>
+        <icon src="https://images.pluto.tv/series/65450e3059dd91000863e04e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6541010f770cf1000866be98" start="20260501210000 +0000" stop="20260501213000 +0000">
+        <title>MTV Spankin’ New</title>
+        <desc>You hear it first! MTV SPANKIN’ NEW is the place to discover new artists before they become household names. It’s the ultimate music experience to stay ahead of the trends.</desc>
+        <icon src="https://images.pluto.tv/series/65450e3059dd91000863e04e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6541010f770cf1000866be98" start="20260501213000 +0000" stop="20260501220000 +0000">
+        <title>MTV Spankin’ New</title>
+        <desc>You hear it first! MTV SPANKIN’ NEW is the place to discover new artists before they become household names. It’s the ultimate music experience to stay ahead of the trends.</desc>
+        <icon src="https://images.pluto.tv/series/65450e3059dd91000863e04e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6541010f770cf1000866be98" start="20260501220000 +0000" stop="20260501223000 +0000">
+        <title>MTV Spankin’ New</title>
+        <desc>You hear it first! MTV SPANKIN’ NEW is the place to discover new artists before they become household names. It’s the ultimate music experience to stay ahead of the trends.</desc>
+        <icon src="https://images.pluto.tv/series/65450e3059dd91000863e04e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6541010f770cf1000866be98" start="20260501223000 +0000" stop="20260501230000 +0000">
+        <title>MTV Spankin’ New</title>
+        <desc>You hear it first! MTV SPANKIN’ NEW is the place to discover new artists before they become household names. It’s the ultimate music experience to stay ahead of the trends.</desc>
+        <icon src="https://images.pluto.tv/series/65450e3059dd91000863e04e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6541010f770cf1000866be98" start="20260501230000 +0000" stop="20260501233000 +0000">
+        <title>MTV Spankin’ New</title>
+        <desc>You hear it first! MTV SPANKIN’ NEW is the place to discover new artists before they become household names. It’s the ultimate music experience to stay ahead of the trends.</desc>
+        <icon src="https://images.pluto.tv/series/65450e3059dd91000863e04e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6541010f770cf1000866be98" start="20260501233000 +0000" stop="20260502000000 +0000">
+        <title>MTV Spankin’ New</title>
+        <desc>You hear it first! MTV SPANKIN’ NEW is the place to discover new artists before they become household names. It’s the ultimate music experience to stay ahead of the trends.</desc>
+        <icon src="https://images.pluto.tv/series/65450e3059dd91000863e04e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65410176770cf1000866bf31" start="20260501193000 +0000" stop="20260501200000 +0000">
         <title>MTV Biggest Pop</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/65410176770cf1000866bf31/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <desc>Turn up with MTV BIGGEST POP. It’s your destination for today’s best music, brightest stars and most dance-able hits.</desc>
+        <icon src="https://images.pluto.tv/series/65450cea986ad200089cd52d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="654102ed770cf1000866c307" start="20260501193000 +0000" stop="20260501233000 +0000">
-        <title>Yo! MTV</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/654102ed770cf1000866c307/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="65410176770cf1000866bf31" start="20260501200000 +0000" stop="20260501203000 +0000">
+        <title>MTV Biggest Pop</title>
+        <desc>Turn up with MTV BIGGEST POP. It’s your destination for today’s best music, brightest stars and most dance-able hits.</desc>
+        <icon src="https://images.pluto.tv/series/65450cea986ad200089cd52d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65410176770cf1000866bf31" start="20260501203000 +0000" stop="20260501210000 +0000">
+        <title>MTV Biggest Pop</title>
+        <desc>Turn up with MTV BIGGEST POP. It’s your destination for today’s best music, brightest stars and most dance-able hits.</desc>
+        <icon src="https://images.pluto.tv/series/65450cea986ad200089cd52d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65410176770cf1000866bf31" start="20260501210000 +0000" stop="20260501213000 +0000">
+        <title>MTV Biggest Pop</title>
+        <desc>Turn up with MTV BIGGEST POP. It’s your destination for today’s best music, brightest stars and most dance-able hits.</desc>
+        <icon src="https://images.pluto.tv/series/65450cea986ad200089cd52d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65410176770cf1000866bf31" start="20260501213000 +0000" stop="20260501220000 +0000">
+        <title>MTV Biggest Pop</title>
+        <desc>Turn up with MTV BIGGEST POP. It’s your destination for today’s best music, brightest stars and most dance-able hits.</desc>
+        <icon src="https://images.pluto.tv/series/65450cea986ad200089cd52d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65410176770cf1000866bf31" start="20260501220000 +0000" stop="20260501223000 +0000">
+        <title>MTV Biggest Pop</title>
+        <desc>Turn up with MTV BIGGEST POP. It’s your destination for today’s best music, brightest stars and most dance-able hits.</desc>
+        <icon src="https://images.pluto.tv/series/65450cea986ad200089cd52d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65410176770cf1000866bf31" start="20260501223000 +0000" stop="20260501230000 +0000">
+        <title>MTV Biggest Pop</title>
+        <desc>Turn up with MTV BIGGEST POP. It’s your destination for today’s best music, brightest stars and most dance-able hits.</desc>
+        <icon src="https://images.pluto.tv/series/65450cea986ad200089cd52d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65410176770cf1000866bf31" start="20260501230000 +0000" stop="20260501233000 +0000">
+        <title>MTV Biggest Pop</title>
+        <desc>Turn up with MTV BIGGEST POP. It’s your destination for today’s best music, brightest stars and most dance-able hits.</desc>
+        <icon src="https://images.pluto.tv/series/65450cea986ad200089cd52d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65410176770cf1000866bf31" start="20260501233000 +0000" stop="20260502000000 +0000">
+        <title>MTV Biggest Pop</title>
+        <desc>Turn up with MTV BIGGEST POP. It’s your destination for today’s best music, brightest stars and most dance-able hits.</desc>
+        <icon src="https://images.pluto.tv/series/65450cea986ad200089cd52d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654102ed770cf1000866c307" start="20260501193000 +0000" stop="20260501200000 +0000">
+        <title>YO! MTV</title>
+        <desc>YO! MTV celebrates the latest and greatest Hip-Hop music videos. We hand-picked the hottest Rap, R&amp;B, and Latin artists to get any party started!</desc>
+        <icon src="https://images.pluto.tv/series/6545148253fc97000833e097/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654102ed770cf1000866c307" start="20260501200000 +0000" stop="20260501203000 +0000">
+        <title>YO! MTV</title>
+        <desc>YO! MTV celebrates the latest and greatest Hip-Hop music videos. We hand-picked the hottest Rap, R&amp;B, and Latin artists to get any party started!</desc>
+        <icon src="https://images.pluto.tv/series/6545148253fc97000833e097/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654102ed770cf1000866c307" start="20260501203000 +0000" stop="20260501210000 +0000">
+        <title>YO! MTV</title>
+        <desc>YO! MTV celebrates the latest and greatest Hip-Hop music videos. We hand-picked the hottest Rap, R&amp;B, and Latin artists to get any party started!</desc>
+        <icon src="https://images.pluto.tv/series/6545148253fc97000833e097/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654102ed770cf1000866c307" start="20260501210000 +0000" stop="20260501213000 +0000">
+        <title>YO! MTV</title>
+        <desc>YO! MTV celebrates the latest and greatest Hip-Hop music videos. We hand-picked the hottest Rap, R&amp;B, and Latin artists to get any party started!</desc>
+        <icon src="https://images.pluto.tv/series/6545148253fc97000833e097/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654102ed770cf1000866c307" start="20260501213000 +0000" stop="20260501220000 +0000">
+        <title>YO! MTV</title>
+        <desc>YO! MTV celebrates the latest and greatest Hip-Hop music videos. We hand-picked the hottest Rap, R&amp;B, and Latin artists to get any party started!</desc>
+        <icon src="https://images.pluto.tv/series/6545148253fc97000833e097/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654102ed770cf1000866c307" start="20260501220000 +0000" stop="20260501223000 +0000">
+        <title>YO! MTV</title>
+        <desc>YO! MTV celebrates the latest and greatest Hip-Hop music videos. We hand-picked the hottest Rap, R&amp;B, and Latin artists to get any party started!</desc>
+        <icon src="https://images.pluto.tv/series/6545148253fc97000833e097/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654102ed770cf1000866c307" start="20260501223000 +0000" stop="20260501230000 +0000">
+        <title>YO! MTV</title>
+        <desc>YO! MTV celebrates the latest and greatest Hip-Hop music videos. We hand-picked the hottest Rap, R&amp;B, and Latin artists to get any party started!</desc>
+        <icon src="https://images.pluto.tv/series/6545148253fc97000833e097/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654102ed770cf1000866c307" start="20260501230000 +0000" stop="20260501233000 +0000">
+        <title>YO! MTV</title>
+        <desc>YO! MTV celebrates the latest and greatest Hip-Hop music videos. We hand-picked the hottest Rap, R&amp;B, and Latin artists to get any party started!</desc>
+        <icon src="https://images.pluto.tv/series/6545148253fc97000833e097/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654102ed770cf1000866c307" start="20260501233000 +0000" stop="20260502000000 +0000">
+        <title>YO! MTV</title>
+        <desc>YO! MTV celebrates the latest and greatest Hip-Hop music videos. We hand-picked the hottest Rap, R&amp;B, and Latin artists to get any party started!</desc>
+        <icon src="https://images.pluto.tv/series/6545148253fc97000833e097/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="654ca7f92c1d3300086b608c" start="20260501191400 +0000" stop="20260501194100 +0000">
         <title>Sanjay and Craig</title>
@@ -15391,10 +15686,50 @@
         <desc>Watch the full match replay between Germany and Japan played at Khalifa International Stadium.</desc>
         <icon src="https://images.pluto.tv/series/67b36b6896446070bd3cbf74/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66588931a3865300085ca800" start="20260501193000 +0000" stop="20260501233000 +0000">
+    <programme channel="66588931a3865300085ca800" start="20260501193000 +0000" stop="20260501200000 +0000">
         <title>Bob l'éponge</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/66588931a3865300085ca800/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <desc>tbc</desc>
+        <icon src="https://images.pluto.tv/series/6691472ccd0d3100081ade7a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66588931a3865300085ca800" start="20260501200000 +0000" stop="20260501203000 +0000">
+        <title>Bob l'éponge</title>
+        <desc>tbc</desc>
+        <icon src="https://images.pluto.tv/series/6691472ccd0d3100081ade7a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66588931a3865300085ca800" start="20260501203000 +0000" stop="20260501210000 +0000">
+        <title>Bob l'éponge</title>
+        <desc>tbc</desc>
+        <icon src="https://images.pluto.tv/series/6691472ccd0d3100081ade7a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66588931a3865300085ca800" start="20260501210000 +0000" stop="20260501213000 +0000">
+        <title>Bob l'éponge</title>
+        <desc>tbc</desc>
+        <icon src="https://images.pluto.tv/series/6691472ccd0d3100081ade7a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66588931a3865300085ca800" start="20260501213000 +0000" stop="20260501220000 +0000">
+        <title>Bob l'éponge</title>
+        <desc>tbc</desc>
+        <icon src="https://images.pluto.tv/series/6691472ccd0d3100081ade7a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66588931a3865300085ca800" start="20260501220000 +0000" stop="20260501223000 +0000">
+        <title>Bob l'éponge</title>
+        <desc>tbc</desc>
+        <icon src="https://images.pluto.tv/series/6691472ccd0d3100081ade7a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66588931a3865300085ca800" start="20260501223000 +0000" stop="20260501230000 +0000">
+        <title>Bob l'éponge</title>
+        <desc>tbc</desc>
+        <icon src="https://images.pluto.tv/series/6691472ccd0d3100081ade7a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66588931a3865300085ca800" start="20260501230000 +0000" stop="20260501233000 +0000">
+        <title>Bob l'éponge</title>
+        <desc>tbc</desc>
+        <icon src="https://images.pluto.tv/series/6691472ccd0d3100081ade7a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66588931a3865300085ca800" start="20260501233000 +0000" stop="20260502000000 +0000">
+        <title>Bob l'éponge</title>
+        <desc>tbc</desc>
+        <icon src="https://images.pluto.tv/series/6691472ccd0d3100081ade7a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="66ebf4a88131f10008b74739" start="20260501192300 +0000" stop="20260501194800 +0000">
         <title>Pokemon: Johto League Champions</title>
@@ -15446,10 +15781,50 @@
         <desc>After our heroes meet a mountain patrol and their Ledian partners, they'll have to help protect the mountain from a destructive Team Rocket attack!</desc>
         <icon src="https://images.pluto.tv/series/67043871a2922a0013c0e3da/tile_1776979086999.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66ed3eb27358ce000830df49" start="20260501193000 +0000" stop="20260501233000 +0000">
+    <programme channel="66ed3eb27358ce000830df49" start="20260501193000 +0000" stop="20260501200000 +0000">
         <title>UFC</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/66ed3eb27358ce000830df49/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <desc>24/7 UFC action. Celebrate the greatest fights, best athletes, and biggest moments from the world's premier MMA organization.</desc>
+        <icon src="https://images.pluto.tv/series/67a0a37977796f00080a9ea5/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66ed3eb27358ce000830df49" start="20260501200000 +0000" stop="20260501203000 +0000">
+        <title>UFC</title>
+        <desc>24/7 UFC action. Celebrate the greatest fights, best athletes, and biggest moments from the world's premier MMA organization.</desc>
+        <icon src="https://images.pluto.tv/series/67a0a37977796f00080a9ea5/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66ed3eb27358ce000830df49" start="20260501203000 +0000" stop="20260501210000 +0000">
+        <title>UFC</title>
+        <desc>24/7 UFC action. Celebrate the greatest fights, best athletes, and biggest moments from the world's premier MMA organization.</desc>
+        <icon src="https://images.pluto.tv/series/67a0a37977796f00080a9ea5/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66ed3eb27358ce000830df49" start="20260501210000 +0000" stop="20260501213000 +0000">
+        <title>UFC</title>
+        <desc>24/7 UFC action. Celebrate the greatest fights, best athletes, and biggest moments from the world's premier MMA organization.</desc>
+        <icon src="https://images.pluto.tv/series/67a0a37977796f00080a9ea5/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66ed3eb27358ce000830df49" start="20260501213000 +0000" stop="20260501220000 +0000">
+        <title>UFC</title>
+        <desc>24/7 UFC action. Celebrate the greatest fights, best athletes, and biggest moments from the world's premier MMA organization.</desc>
+        <icon src="https://images.pluto.tv/series/67a0a37977796f00080a9ea5/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66ed3eb27358ce000830df49" start="20260501220000 +0000" stop="20260501223000 +0000">
+        <title>UFC</title>
+        <desc>24/7 UFC action. Celebrate the greatest fights, best athletes, and biggest moments from the world's premier MMA organization.</desc>
+        <icon src="https://images.pluto.tv/series/67a0a37977796f00080a9ea5/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66ed3eb27358ce000830df49" start="20260501223000 +0000" stop="20260501230000 +0000">
+        <title>UFC</title>
+        <desc>24/7 UFC action. Celebrate the greatest fights, best athletes, and biggest moments from the world's premier MMA organization.</desc>
+        <icon src="https://images.pluto.tv/series/67a0a37977796f00080a9ea5/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66ed3eb27358ce000830df49" start="20260501230000 +0000" stop="20260501233000 +0000">
+        <title>UFC</title>
+        <desc>24/7 UFC action. Celebrate the greatest fights, best athletes, and biggest moments from the world's premier MMA organization.</desc>
+        <icon src="https://images.pluto.tv/series/67a0a37977796f00080a9ea5/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66ed3eb27358ce000830df49" start="20260501233000 +0000" stop="20260502000000 +0000">
+        <title>UFC</title>
+        <desc>24/7 UFC action. Celebrate the greatest fights, best athletes, and biggest moments from the world's premier MMA organization.</desc>
+        <icon src="https://images.pluto.tv/series/67a0a37977796f00080a9ea5/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="66fd394e9269330008413302" start="20260501153000 +0000" stop="20260501200000 +0000">
         <title>Disc Golf Pro Tour</title>
@@ -22451,6 +22826,11 @@
         <desc>Sheffield's finest make their long-awaited debut at London's O2m Arena in November 2018. Marking the 31st anniversary of Hysteria they played the whole of the ground breaking album in chronological order featuring hits like Pour Some Sugar on Me, Ani...</desc>
         <icon src="https://images.pluto.tv/series/69e16a183312e3048e406e72/tile_1776380440837.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="64240d3d466225000827412b" start="20260502040000 +0000" stop="20260502063500 +0000">
+        <title>The Who: Live At The Isle Of Wight Festival 2004</title>
+        <desc>In 2004 The Who returns to the Isle Of Wight Festival for the first time since their legendary performance in 1970; the group's UK concerts in 2004 were the first in their home country since the death of founder member John Entwistle.</desc>
+        <icon src="https://images.pluto.tv/series/6743e84fe07f2800133e872b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="647f07e74cfc2c0008a2e557" start="20260501224300 +0000" stop="20260502004400 +0000">
         <title>English Championship Soccer</title>
         <desc>From Portman Road Stadium in Ipswich, Suffolk, England.</desc>
@@ -23435,6 +23815,11 @@
         <title>Night Hunter</title>
         <desc>A weathered Lieutenant, his police force, and a local vigilante are all caught up in a dangerous scheme involving a recently arrested, troubled man who's linked to years of female abductions and murders.</desc>
         <icon src="https://images.pluto.tv/series/66e840efd99fc70013622abf/tile_1764879981587.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62ea3c2e4823db00072788ed" start="20260502073630 +0000" stop="20260502095130 +0000">
+        <title>Elite Squad: The Enemy Within</title>
+        <desc>After a prison riot, Captain Nascimiento, now a high ranking security officer in Rio de Janeiro, is swept into a bloody political dispute that involves government officials and paramilitary groups.</desc>
+        <icon src="https://images.pluto.tv/series/69499da36a5d6e38601bd884/tile_1766432165765.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="62ea3d24b8e02600071fa296" start="20260502020230 +0000" stop="20260502035830 +0000">
         <title>Igby Goes Down</title>
@@ -37488,10 +37873,25 @@ In the end, Inferno sacrifices himself in the sun to defeat the Decepticons.</de
         <desc>During a drought, Francine bets Arthur that her family can use less water than his. The TV show, Treasure Caravan, is coming to Elwood City! Arthur and D.W. are convinced they'll find treasures that will make them rich and famous.</desc>
         <icon src="https://images.pluto.tv/series/648b341893485d00139d9898/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64a28c62d609b60008ca4933" start="20260502073000 +0000" stop="20260502113000 +0000">
-        <title>Rock Channel</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/64a28c62d609b60008ca4933/featuredImage_1758270365512.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="64a28c62d609b60008ca4933" start="20260502064821 +0000" stop="20260502085620 +0000">
+        <title>2025 KIOTI GSOC Tahoe</title>
+        <desc>Team Whyte has won the past three games against Team Jacobs as they meet again in the KIOTI GSOC Tahoe.</desc>
+        <icon src="https://images.pluto.tv/series/69e57678d9ac4ac6ee5b7f99/tile_1777651564991.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64a28c62d609b60008ca4933" start="20260502085620 +0000" stop="20260502091319 +0000">
+        <title>2025 KIOTI GSOC Tahoe</title>
+        <desc>Live from Lake Tahoe, California.</desc>
+        <icon src="https://images.pluto.tv/series/69e57678d9ac4ac6ee5b7f99/tile_1777651564991.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64a28c62d609b60008ca4933" start="20260502091319 +0000" stop="20260502112027 +0000">
+        <title>2025 KIOTI GSOC Tahoe</title>
+        <desc>Team Edin meets Team McEwen on the final day of preliminary play in the KIOTI GSOC Tahoe.</desc>
+        <icon src="https://images.pluto.tv/series/69e57678d9ac4ac6ee5b7f99/tile_1777651564991.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64a28c62d609b60008ca4933" start="20260502112027 +0000" stop="20260502135656 +0000">
+        <title>2025 KIOTI GSOC Tahoe</title>
+        <desc>Team Tabata takes on Team Lawes during the final day of preliminary play in the KIOTI GSOC Tahoe.</desc>
+        <icon src="https://images.pluto.tv/series/69e57678d9ac4ac6ee5b7f99/tile_1777651564991.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="654100b4bdf3cf0008aa49c7" start="20260502070008 +0000" stop="20260502073008 +0000">
         <title>MTV Classic</title>
@@ -38620,10 +39020,10 @@ In the end, Inferno sacrifices himself in the sun to defeat the Decepticons.</de
         <desc>In 1887 London, Detective Rabbit and Sergeant Strauss solve a murder with Mabel's help amid rampant crime.</desc>
         <icon src="https://images.pluto.tv/series/69d4014e8e5593ad0ec43a14/tile_1775501670638.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="638e11951177840007fdd6b2" start="20260502150900 +0000" stop="20260502153000 +0000">
-        <title>Pluto TV British Comedy</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/638e11951177840007fdd6b2/featuredImage_1745597177256.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="638e11951177840007fdd6b2" start="20260502150900 +0000" stop="20260502153900 +0000">
+        <title>Year of the Rabbit</title>
+        <desc>A killer called the Brick Man terrorizes London. Rabbit, Strauss and Mabel investigate the mystery.</desc>
+        <icon src="https://images.pluto.tv/series/69d4014e8e5593ad0ec43a14/tile_1775501670638.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="64a3d96f060e830008af6745" start="20260502100000 +0000" stop="20260502115400 +0000">
         <title>The Legend of Hercules</title>
@@ -38639,6 +39039,11 @@ In the end, Inferno sacrifices himself in the sun to defeat the Decepticons.</de
         <title>The Last Witch Hunter</title>
         <desc>The fate of the human race hangs in the balance when the Witch Queen rises from the dead, seeking revenge against Kaulder, the immortal warrior who slayed her centuries ago.</desc>
         <icon src="https://images.pluto.tv/series/64d394fb8f763a0013d39091/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64a3d96f060e830008af6745" start="20260502155200 +0000" stop="20260502181600 +0000">
+        <title>Knowing</title>
+        <desc>A professor (Nicolas Cage) and his son obtain an encoded time-capsule document that lists every major disaster over the past 50 years and predicts a future global calamity.</desc>
+        <icon src="https://images.pluto.tv/series/64d0dcdb85e5ff0013178d02/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="64f8a408bd341e000818fcda" start="20260502111600 +0000" stop="20260502114100 +0000">
         <title>Key &amp; Peele</title>
@@ -38706,9 +39111,9 @@ In the end, Inferno sacrifices himself in the sun to defeat the Decepticons.</de
         <icon src="https://images.pluto.tv/series/649d8b92e1356600136862ea/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="64f8a949f5b5e4000862467c" start="20260502115100 +0000" stop="20260502120000 +0000">
-        <title>Comedy Central Animation</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/64f8a949f5b5e4000862467c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <title>Beavis and Butt-Head</title>
+        <desc>Beavis and Butt-head come to the aid of a wounded baby bird...almost.</desc>
+        <icon src="https://images.pluto.tv/series/649d8b92e1356600136862ea/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="64f8a949f5b5e4000862467c" start="20260502120000 +0000" stop="20260502122500 +0000">
         <title>Drawn Together</title>
@@ -39025,10 +39430,50 @@ In the end, Inferno sacrifices himself in the sun to defeat the Decepticons.</de
         <desc>Darlene continues her search for a new job; Becky is desperate to spend more time with Beverly Rose.</desc>
         <icon src="https://images.pluto.tv/series/66e9d04fa1c8920013a77cd7/tile_1776979838871.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="677f929054f43dad4b325c1c" start="20260502113000 +0000" stop="20260502153000 +0000">
+    <programme channel="677f929054f43dad4b325c1c" start="20260502113000 +0000" stop="20260502120000 +0000">
         <title>Just for Laughs GAGS</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/677f929054f43dad4b325c1c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <desc>Enjoy hilarious pranks, timeless humor, and laugh-out-loud moments that appeal to all ages. No dialogue, just universal comedy guaranteed to brighten your day anytime you tune in!</desc>
+        <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="677f929054f43dad4b325c1c" start="20260502120000 +0000" stop="20260502123000 +0000">
+        <title>Just for Laughs GAGS</title>
+        <desc>Enjoy hilarious pranks, timeless humor, and laugh-out-loud moments that appeal to all ages. No dialogue, just universal comedy guaranteed to brighten your day anytime you tune in!</desc>
+        <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="677f929054f43dad4b325c1c" start="20260502123000 +0000" stop="20260502130000 +0000">
+        <title>Just for Laughs GAGS</title>
+        <desc>Enjoy hilarious pranks, timeless humor, and laugh-out-loud moments that appeal to all ages. No dialogue, just universal comedy guaranteed to brighten your day anytime you tune in!</desc>
+        <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="677f929054f43dad4b325c1c" start="20260502130000 +0000" stop="20260502133000 +0000">
+        <title>Just for Laughs GAGS</title>
+        <desc>Enjoy hilarious pranks, timeless humor, and laugh-out-loud moments that appeal to all ages. No dialogue, just universal comedy guaranteed to brighten your day anytime you tune in!</desc>
+        <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="677f929054f43dad4b325c1c" start="20260502133000 +0000" stop="20260502140000 +0000">
+        <title>Just for Laughs GAGS</title>
+        <desc>Enjoy hilarious pranks, timeless humor, and laugh-out-loud moments that appeal to all ages. No dialogue, just universal comedy guaranteed to brighten your day anytime you tune in!</desc>
+        <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="677f929054f43dad4b325c1c" start="20260502140000 +0000" stop="20260502143000 +0000">
+        <title>Just for Laughs GAGS</title>
+        <desc>Enjoy hilarious pranks, timeless humor, and laugh-out-loud moments that appeal to all ages. No dialogue, just universal comedy guaranteed to brighten your day anytime you tune in!</desc>
+        <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="677f929054f43dad4b325c1c" start="20260502143000 +0000" stop="20260502150000 +0000">
+        <title>Just for Laughs GAGS</title>
+        <desc>Enjoy hilarious pranks, timeless humor, and laugh-out-loud moments that appeal to all ages. No dialogue, just universal comedy guaranteed to brighten your day anytime you tune in!</desc>
+        <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="677f929054f43dad4b325c1c" start="20260502150000 +0000" stop="20260502153000 +0000">
+        <title>Just for Laughs GAGS</title>
+        <desc>Enjoy hilarious pranks, timeless humor, and laugh-out-loud moments that appeal to all ages. No dialogue, just universal comedy guaranteed to brighten your day anytime you tune in!</desc>
+        <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="677f929054f43dad4b325c1c" start="20260502153000 +0000" stop="20260502160000 +0000">
+        <title>Just for Laughs GAGS</title>
+        <desc>Enjoy hilarious pranks, timeless humor, and laugh-out-loud moments that appeal to all ages. No dialogue, just universal comedy guaranteed to brighten your day anytime you tune in!</desc>
+        <icon src="https://images.pluto.tv/series/67af2281c6d96e335cebff55/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6874ad2f3484d60732267ba8" start="20260502111600 +0000" stop="20260502114200 +0000">
         <title>Scare Tactics</title>
@@ -39080,10 +39525,50 @@ In the end, Inferno sacrifices himself in the sun to defeat the Decepticons.</de
         <desc>A warehouse worker is implicated when radicals smuggle biohazards through his shift.</desc>
         <icon src="https://images.pluto.tv/series/68824eabdf1220b535b6dd12/tile_1765567846186.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="69172f1699758a0f03459c5b" start="20260502113000 +0000" stop="20260502153000 +0000">
+    <programme channel="69172f1699758a0f03459c5b" start="20260502112713 +0000" stop="20260502115713 +0000">
         <title>America's Funniest Home Videos</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/69172f1699758a0f03459c5b/featuredImage_1767729487919.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <desc>America's Funniest Home Videos</desc>
+        <icon src="https://images.pluto.tv/series/6916fe388643dc1657cac157/tile_1763114553906.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69172f1699758a0f03459c5b" start="20260502115713 +0000" stop="20260502122713 +0000">
+        <title>America's Funniest Home Videos</title>
+        <desc>America's Funniest Home Videos</desc>
+        <icon src="https://images.pluto.tv/series/6916fe388643dc1657cac157/tile_1763114553906.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69172f1699758a0f03459c5b" start="20260502122713 +0000" stop="20260502125713 +0000">
+        <title>America's Funniest Home Videos</title>
+        <desc>America's Funniest Home Videos</desc>
+        <icon src="https://images.pluto.tv/series/6916fe388643dc1657cac157/tile_1763114553906.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69172f1699758a0f03459c5b" start="20260502125713 +0000" stop="20260502132713 +0000">
+        <title>America's Funniest Home Videos</title>
+        <desc>America's Funniest Home Videos</desc>
+        <icon src="https://images.pluto.tv/series/6916fe388643dc1657cac157/tile_1763114553906.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69172f1699758a0f03459c5b" start="20260502132713 +0000" stop="20260502135713 +0000">
+        <title>America's Funniest Home Videos</title>
+        <desc>America's Funniest Home Videos</desc>
+        <icon src="https://images.pluto.tv/series/6916fe388643dc1657cac157/tile_1763114553906.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69172f1699758a0f03459c5b" start="20260502135713 +0000" stop="20260502142713 +0000">
+        <title>America's Funniest Home Videos</title>
+        <desc>America's Funniest Home Videos</desc>
+        <icon src="https://images.pluto.tv/series/6916fe388643dc1657cac157/tile_1763114553906.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69172f1699758a0f03459c5b" start="20260502142713 +0000" stop="20260502145713 +0000">
+        <title>America's Funniest Home Videos</title>
+        <desc>America's Funniest Home Videos</desc>
+        <icon src="https://images.pluto.tv/series/6916fe388643dc1657cac157/tile_1763114553906.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69172f1699758a0f03459c5b" start="20260502145713 +0000" stop="20260502152713 +0000">
+        <title>America's Funniest Home Videos</title>
+        <desc>America's Funniest Home Videos</desc>
+        <icon src="https://images.pluto.tv/series/6916fe388643dc1657cac157/tile_1763114553906.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69172f1699758a0f03459c5b" start="20260502152713 +0000" stop="20260502155713 +0000">
+        <title>America's Funniest Home Videos</title>
+        <desc>America's Funniest Home Videos</desc>
+        <icon src="https://images.pluto.tv/series/6916fe388643dc1657cac157/tile_1763114553906.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="691e0561e32eb094b835c418" start="20260502111300 +0000" stop="20260502130700 +0000">
         <title>Tracers</title>

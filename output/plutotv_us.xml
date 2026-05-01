@@ -2186,6 +2186,11 @@
         <desc>John Malkovich, Gary Sinise and Sherilyn Fenn shine in this contemporary remake of the beloved classic about a nomadic farm worker who looks after his dimwitted, gentle-giant friend.</desc>
         <icon src="https://images.pluto.tv/series/5966921170e766a31078cd66/tile_1774279081231.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5b4e94282d4ec87bdcbb87cd" start="20260501214504 +0000" stop="20260502000004 +0000">
+        <title>Posse</title>
+        <desc>There's action galore in this off-beat western that features a group of mostly black infantrymen who return from the Spanish-American War with a cache of gold. The men travel to the West where their leader searches for the men who lynched his father.</desc>
+        <icon src="https://images.pluto.tv/series/5b3aec52bbacc7ee58f52c2b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5b64a245a202b3337f09e51d" start="20260501143000 +0000" stop="20260501164500 +0000">
         <title>Agent Cody Banks</title>
         <desc>To his family and friends, Cody Banks is a typical teen. But Cody has a secret - he's actually part of an undercover teen CIA program and has 5 years of special training under his belt.</desc>
@@ -2200,6 +2205,11 @@
         <title>Rango</title>
         <desc>A chameleon that aspires to be a swashbuckling hero finds himself in a Western town plagued by bandits and is forced to literally play the role in order to protect it.</desc>
         <icon src="https://images.pluto.tv/series/5c6c865fbb225fd2ebadc00f/tile_1772215201671.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5b64a245a202b3337f09e51d" start="20260501210000 +0000" stop="20260502000000 +0000">
+        <title>Noah</title>
+        <desc>Russell Crowe stars as Noah in the timeless story of courage, sacrifice, and hope. "This visually stunning, action-adventure is hailed as "one of the most unforgettable Biblical epics ever put on film." *Richard Roeper, Chicago-Sun-Times</desc>
+        <icon src="https://images.pluto.tv/series/60a8136bac192300136e1dc2/tile_1777573802864.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5ba3fb9c4b078e0f37ad34e8" start="20260501151500 +0000" stop="20260501170000 +0000">
         <title>Driveways</title>
@@ -2475,6 +2485,11 @@
         <title>Law Abiding Citizen</title>
         <desc>Ten years after his wife and child die in a home invasion, a man carries out an elaborate plot against the prosecutor who cut a deal with one of the killers.</desc>
         <icon src="https://images.pluto.tv/series/6609c7d496fdf20013d2f202/tile_1758722473845.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="645e7828e1979c00087b75b4" start="20260501204900 +0000" stop="20260501231100 +0000">
+        <title>Destroyer</title>
+        <desc>As a young cop, Erin Bell went undercover to infiltrate a gang in the California desert -- with tragic results. When the gang leader re-emerges, Bell embarks on an obsessive quest to bring him to justice and make peace with her tortured past.</desc>
+        <icon src="https://images.pluto.tv/series/65393bb1a61c2a001b707884/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="64b585f84ea480000838e446" start="20260501150000 +0000" stop="20260501173000 +0000">
         <title>Heartburn</title>
@@ -4342,6 +4357,11 @@ of President Bush and nature striking back.</desc>
     <programme channel="6549341853fc9700083901ac" start="20260501184400 +0000" stop="20260501203100 +0000">
         <title>Columbo</title>
         <desc>The rumpled lieutenant is invited to give a college lecture on criminology but ends up investigating the murder of one of the institution's professors.</desc>
+        <icon src="https://images.pluto.tv/series/659d122bd40ef30013f789f3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6549341853fc9700083901ac" start="20260501203100 +0000" stop="20260501221100 +0000">
+        <title>Columbo</title>
+        <desc>Columbo investigates the murder of a crime show host's rival with incriminating evidence.</desc>
         <icon src="https://images.pluto.tv/series/659d122bd40ef30013f789f3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="65a6dafb7bdc8d0008473c85" start="20260501161600 +0000" stop="20260501164300 +0000">
@@ -8847,25 +8867,25 @@ of President Bush and nature striking back.</desc>
         <desc>Hear from players and coaches with postgame press conference highlights (Includes AI-generated elements)</desc>
         <icon src="https://images.pluto.tv/series/69e23d8a3f22a165b0db0c6d/tile_1776434613884.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6792c30abc03978b9b8bb832" start="20260501183500 +0000" stop="20260501191100 +0000">
+    <programme channel="6792c30abc03978b9b8bb832" start="20260501183500 +0000" stop="20260501184800 +0000">
+        <title>NBA Fast Channel</title>
+        <desc>Welcome to the NBA’s official channel, now available on Pluto TV. Catch up on the latest news, behind-the-scenes stories, and highlights from around the league.</desc>
+        <icon src="https://images.pluto.tv/series/67ae3bb1095e58e394a9c93f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6792c30abc03978b9b8bb832" start="20260501184800 +0000" stop="20260501192400 +0000">
         <title>Plays of the Week</title>
         <desc>Watch the top highlights from week 25 in the NBA.</desc>
         <icon src="https://images.pluto.tv/series/690026270966c2fd46aac977/tile_1762485908944.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6792c30abc03978b9b8bb832" start="20260501191100 +0000" stop="20260501195100 +0000">
+    <programme channel="6792c30abc03978b9b8bb832" start="20260501192400 +0000" stop="20260501200300 +0000">
         <title>Games of the Night</title>
-        <desc>Recap Monday's Playoff games.</desc>
+        <desc>Check out the best moments from last night's games!</desc>
         <icon src="https://images.pluto.tv/series/67be22388cae59c1bc3a2ad8/tile_1759497893159.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6792c30abc03978b9b8bb832" start="20260501195100 +0000" stop="20260501202000 +0000">
+    <programme channel="6792c30abc03978b9b8bb832" start="20260501200300 +0000" stop="20260501203300 +0000">
         <title>The Association: Post up</title>
         <desc>A nightly recap basketball-cast celebrating the game, players and the culture of the NBA.</desc>
         <icon src="https://images.pluto.tv/series/68f15240f1f80c8151a3c0f8/tile_1763491875544.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6792c30abc03978b9b8bb832" start="20260501202000 +0000" stop="20260501205900 +0000">
-        <title>Plays of the Week</title>
-        <desc>Watch the top highlights from week 25 in the NBA.</desc>
-        <icon src="https://images.pluto.tv/series/690026270966c2fd46aac977/tile_1762485908944.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="681109b688b9d85d0938c6ba" start="20260501143000 +0000" stop="20260501170000 +0000">
         <title>ATP Challenger</title>
@@ -9915,47 +9935,47 @@ of President Bush and nature striking back.</desc>
     <programme channel="5e84f54a82f05300080e6746" start="20260501162946 +0000" stop="20260501165642 +0000">
         <title>Cook's Country</title>
         <desc>Jamaican Oxtail, Jamaican Rice and Peas; review of countertop compost bins</desc>
-        <icon src="https://images.pluto.tv/series/69f1df5869b4b3cf5448cf27/tile_1777634883649.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/69f1df5869b4b3cf5448cf27/tile_1777656627666.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5e84f54a82f05300080e6746" start="20260501165642 +0000" stop="20260501172601 +0000">
         <title>America's Test Kitchen</title>
         <desc>Çilbir, Xīhóngshì Chao Jīdàn, Matzo Brei; review of sponge holders</desc>
-        <icon src="https://images.pluto.tv/series/69978f1aaab7b257ba88aae3/tile_1777634882664.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/69978f1aaab7b257ba88aae3/tile_1777656627073.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5e84f54a82f05300080e6746" start="20260501172601 +0000" stop="20260501175609 +0000">
         <title>Cook's Country</title>
         <desc>Banana Pudding Pie, No-Churn Ice Cream; story of Augustus Jackson; all about vanilla</desc>
-        <icon src="https://images.pluto.tv/series/69f1df5869b4b3cf5448cf27/tile_1777634883649.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/69f1df5869b4b3cf5448cf27/tile_1777656627666.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5e84f54a82f05300080e6746" start="20260501175609 +0000" stop="20260501182557 +0000">
         <title>America's Test Kitchen</title>
         <desc>Albóndigas en Salsa Almendras, Espinacas Con Garbanzos; all about olives</desc>
-        <icon src="https://images.pluto.tv/series/69978f1aaab7b257ba88aae3/tile_1777634882664.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/69978f1aaab7b257ba88aae3/tile_1777656627073.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5e84f54a82f05300080e6746" start="20260501182557 +0000" stop="20260501185611 +0000">
         <title>America's Test Kitchen</title>
         <desc>Lahmajun (Armenian Flatbread): Vospov Kofte (Red Lentil Kofte): all things lentils</desc>
-        <icon src="https://images.pluto.tv/series/69978f1aaab7b257ba88aae3/tile_1777634882664.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/69978f1aaab7b257ba88aae3/tile_1777656627073.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5e84f54a82f05300080e6746" start="20260501185611 +0000" stop="20260501192333 +0000">
         <title>Julia At Home</title>
         <desc>Lan teaches us how to make bread using a Tangzhong. She also gives us tips on making delicious sandwiches.</desc>
-        <icon src="https://images.pluto.tv/series/69a09c707ec015be5672c6ee/tile_1777634884301.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/69a09c707ec015be5672c6ee/tile_1777656627998.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5e84f54a82f05300080e6746" start="20260501192333 +0000" stop="20260501195321 +0000">
         <title>America's Test Kitchen</title>
         <desc>Broiled Chicken with Gravy: Skillet Roasted Broccoli: review of toaster ovens</desc>
-        <icon src="https://images.pluto.tv/series/69978f1aaab7b257ba88aae3/tile_1777634882664.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/69978f1aaab7b257ba88aae3/tile_1777656627073.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5e84f54a82f05300080e6746" start="20260501195321 +0000" stop="20260501202217 +0000">
         <title>America's Test Kitchen</title>
         <desc>Grill-Smoked and Herb-Rubbed Flat Iron Steaks, Fresh Fruit Tart; mascarpone tasting; the science of salting</desc>
-        <icon src="https://images.pluto.tv/series/69978f1aaab7b257ba88aae3/tile_1777634882664.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/69978f1aaab7b257ba88aae3/tile_1777656627073.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5e84f54a82f05300080e6746" start="20260501202217 +0000" stop="20260501205831 +0000">
         <title>America's Test Kitchen</title>
         <desc>Host Julia Collin Davison fries up crispy Chicken Schnitzel.</desc>
-        <icon src="https://images.pluto.tv/series/69978f1aaab7b257ba88aae3/tile_1777634882664.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/69978f1aaab7b257ba88aae3/tile_1777656627073.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="601a0342dcf4370007566891" start="20260501160000 +0000" stop="20260501170000 +0000">
         <title>Tiny House Nation</title>
@@ -12522,6 +12542,11 @@ of President Bush and nature striking back.</desc>
         <desc>Paul Walker y Jessica Alba esperan pasar unos momentos inolvidables buceando, pero se meten en un lío con un traficante cuando encuentran la carga ilícita de un avión hundido en este thriller submarino lleno de acción y sorpresas.</desc>
         <icon src="https://images.pluto.tv/series/63be0a226d79340013528d58/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="60fb2f47c133270007327375" start="20260501213000 +0000" stop="20260502000000 +0000">
+        <title>Héroes</title>
+        <desc>Dos jóvenes estadounidenses con habilidades especiales deben apurarse para encontrar a una chica en Hong Kong antes de que lo haga una sombría organización gubernamental llamada División.</desc>
+        <icon src="https://images.pluto.tv/series/68c834ccb76cf0ad377cd388/tile_1757951197697.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="632b5950b515b000079e6b81" start="20260501163000 +0000" stop="20260501173000 +0000">
         <title>CSI: Miami en español</title>
         <desc>Después de que todo un vecindario se entera de que los están obligando a dejar sus hogares, el político local que apoya la expropiación es asesinado.</desc>
@@ -13587,6 +13612,11 @@ of President Bush and nature striking back.</desc>
         <desc>Filmed in November 2010 in the palatial surroundings of the wonderful art deco Pantages Theatre in Hollywood, this concert film captures Sheryl Crow on tour in support of her recent hit album 100 Miles From Memphis.</desc>
         <icon src="https://images.pluto.tv/series/69e15bfa3f22a165b09817f1/tile_1776388556180.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="696998915a0ae9e1b563f0c6" start="20260501204200 +0000" stop="20260501222100 +0000">
+        <title>Genesis: Three Sides Live</title>
+        <desc>Three Sides Live was filmed in November 1981 on the Abacab tour in North America. Originally filmed in 16mm, the footage has now been fully restored. The show focuses on tracks from the Duke and Abacab albums.</desc>
+        <icon src="https://images.pluto.tv/series/69e16a163312e3048e405df3/tile_1776380439076.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5dc48170e280c80009a861ab" start="20260501163000 +0000" stop="20260501170000 +0000">
         <title>CBS News New York 12pm</title>
         <desc>Stay informed with the latest breaking news and headlines.</desc>
@@ -14531,6 +14561,11 @@ of President Bush and nature striking back.</desc>
         <title>Den of Thieves</title>
         <desc>An elite unit of the Los Angeles County Sheriff's Department squares off against a crew of ex-military men who hatch an elaborate plan for a seemingly impossible heist -- the city's Federal Reserve Bank.</desc>
         <icon src="https://images.pluto.tv/series/68af3b53fd92ab53e8d687aa/tile_1756325729360.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="645e7828e1979c00087b75b4" start="20260502014800 +0000" stop="20260502044600 +0000">
+        <title>Dragged Across Concrete</title>
+        <desc>Police partners descend into the criminal underworld after they are suspended for assaulting a suspect on video.</desc>
+        <icon src="https://images.pluto.tv/series/65ea7f4e3d3e450014331aa9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="64b585f84ea480000838e446" start="20260501200000 +0000" stop="20260501221500 +0000">
         <title>The Iron Lady</title>
@@ -20856,37 +20891,42 @@ compete for this season’s third $100,000 prize.</desc>
         <desc>Voice of reason in a chaotic time.</desc>
         <icon src="https://images.pluto.tv/series/67b98478adb4b793c6db5866/tile_1768615914861.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6792c30abc03978b9b8bb832" start="20260501202000 +0000" stop="20260501205900 +0000">
-        <title>Plays of the Week</title>
-        <desc>Watch the top highlights from week 25 in the NBA.</desc>
-        <icon src="https://images.pluto.tv/series/690026270966c2fd46aac977/tile_1762485908944.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6792c30abc03978b9b8bb832" start="20260501205900 +0000" stop="20260501213500 +0000">
-        <title>Games of the Night</title>
-        <desc>Recap Monday's Playoff games.</desc>
-        <icon src="https://images.pluto.tv/series/67be22388cae59c1bc3a2ad8/tile_1759497893159.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6792c30abc03978b9b8bb832" start="20260501213500 +0000" stop="20260501220400 +0000">
+    <programme channel="6792c30abc03978b9b8bb832" start="20260501200300 +0000" stop="20260501203300 +0000">
         <title>The Association: Post up</title>
         <desc>A nightly recap basketball-cast celebrating the game, players and the culture of the NBA.</desc>
         <icon src="https://images.pluto.tv/series/68f15240f1f80c8151a3c0f8/tile_1763491875544.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6792c30abc03978b9b8bb832" start="20260501220400 +0000" stop="20260501230100 +0000">
-        <title>Beyond the Buzzer</title>
-        <desc>Hear from players and coaches with postgame press conference highlights (Includes AI-generated elements)</desc>
-        <icon src="https://images.pluto.tv/series/69e23d8a3f22a165b0db0c6d/tile_1776434613884.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="6792c30abc03978b9b8bb832" start="20260501203300 +0000" stop="20260501211200 +0000">
+        <title>Plays of the Week</title>
+        <desc>Watch the top highlights from week 25 in the NBA.</desc>
+        <icon src="https://images.pluto.tv/series/690026270966c2fd46aac977/tile_1762485908944.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6792c30abc03978b9b8bb832" start="20260501230100 +0000" stop="20260501234000 +0000">
+    <programme channel="6792c30abc03978b9b8bb832" start="20260501211200 +0000" stop="20260501214800 +0000">
+        <title>Games of the Night</title>
+        <desc>Check out the best moments from last night's games!</desc>
+        <icon src="https://images.pluto.tv/series/67be22388cae59c1bc3a2ad8/tile_1759497893159.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6792c30abc03978b9b8bb832" start="20260501214800 +0000" stop="20260501221700 +0000">
+        <title>The Association: Post up</title>
+        <desc>A nightly recap basketball-cast celebrating the game, players and the culture of the NBA.</desc>
+        <icon src="https://images.pluto.tv/series/68f15240f1f80c8151a3c0f8/tile_1763491875544.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6792c30abc03978b9b8bb832" start="20260501221700 +0000" stop="20260501232600 +0000">
+        <title>NBA Fast Channel</title>
+        <desc>Welcome to the NBA’s official FAST channel, now available 24/7 on Pluto TV. Catch up on the latest across the league, watch a few highlights, or simply lean back and enjoy a classic NBA game.</desc>
+        <icon src="https://images.pluto.tv/series/67ae3bb1095e58e394a9c93f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6792c30abc03978b9b8bb832" start="20260501232600 +0000" stop="20260502000500 +0000">
         <title>Dunks of the Week</title>
         <desc>Check out the best dunks from week 25 in the NBA.</desc>
         <icon src="https://images.pluto.tv/series/690026280966c2fd46aac9ac/tile_1762485909344.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6792c30abc03978b9b8bb832" start="20260501234000 +0000" stop="20260502000500 +0000">
+    <programme channel="6792c30abc03978b9b8bb832" start="20260502000500 +0000" stop="20260502003000 +0000">
         <title>NBA Action</title>
         <desc>Featuring weekly highlights from the basketball league; all the stars, all the games and everything you need to know about the NBA.</desc>
         <icon src="https://images.pluto.tv/series/67ad28829730749ac8abe99e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6792c30abc03978b9b8bb832" start="20260502000500 +0000" stop="20260502015800 +0000">
+    <programme channel="6792c30abc03978b9b8bb832" start="20260502003000 +0000" stop="20260502022300 +0000">
         <title>Games of the Week</title>
         <desc>Top highlights, performances, and matchups from the best games in the NBA.</desc>
         <icon src="https://images.pluto.tv/series/67ee3981e680c6d5f6791ead/tile_1746688763540.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
@@ -24180,6 +24220,11 @@ compete for this season’s third $100,000 prize.</desc>
         <title>Forrest Gump (ESP)</title>
         <desc>La historia de Forrest Gump, interpretado por Tom Hanks, un hombre de Alabama que se ve envuelto en momentos clave de la historia de EE. UU. mientras busca a su gran amor; una película ganadora de 6 premios Óscar.</desc>
         <icon src="https://images.pluto.tv/series/5d23761f11666bfcc59afd1c/tile_1777308841270.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5cf968040ab7d8f181e6a68b" start="20260502020000 +0000" stop="20260502043000 +0000">
+        <title>Misión imposible</title>
+        <desc>Ethan Hunt (Tom Cruise), un agente secreto, es incriminado por la muerte de su compañero de espionaje e intenta deshacerse de los asesinos del gobierno que lo persiguen.  Corre contra el reloj mientras intenta descubrir la verdad.</desc>
+        <icon src="https://images.pluto.tv/series/5d2caabdc64d57604efc9de1/tile_1777580318145.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5cf96b1c4f1ca3f0629f4bf0" start="20260501191500 +0000" stop="20260501213000 +0000">
         <title>Casese Quien Pueda</title>
@@ -32104,6 +32149,11 @@ blunders.</desc>
         <desc>Some of the best clips from "Family Feud."</desc>
         <icon src="https://images.pluto.tv/series/68f923b5e75d6b4e6fd35bad/tile_1761162646085.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="672e4d915534bb0008c50168" start="20260502045800 +0000" stop="20260502055200 +0000">
+        <title>Compilations</title>
+        <desc>Steve Harvey watches the classic family competition.</desc>
+        <icon src="https://images.pluto.tv/series/68f923b3e75d6b4e6fd359c6/tile_1769739198752.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="674f735a2fb8a100087bf253" start="20260501235000 +0000" stop="20260502012500 +0000">
         <title>The Happys</title>
         <desc>Tracy thinks she has it all -- until she catches her boyfriend cheating on her with a man. As their relationship starts to deteriorate, she soon finds unexpected solace when she befriends a group of quirky residents in her Los Angeles neighborhood.</desc>
@@ -32629,6 +32679,11 @@ blunders.</desc>
         <desc>The Yankees hit three homers, highlighted by Judge's first postseason jack, to advance to the ALDS.</desc>
         <icon src="https://images.pluto.tv/series/681a39cae3b2ef54582b00a9/tile_1777640961698.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5e66968a70f34c0007d050be" start="20260502072000 +0000" stop="20260502120000 +0000">
+        <title>Great Games</title>
+        <desc>Jorge Polanco's walk-off hit caps a 15-inning Game 5 and sends the Mariners to the ALCS.</desc>
+        <icon src="https://images.pluto.tv/series/681a39cae3b2ef54582b00a9/tile_1777640961698.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5e7cf6c7b156d500078c5f44" start="20260502000000 +0000" stop="20260502010000 +0000">
         <title>The Matt Gaetz Show</title>
         <desc>Former congressman Matt Gaetz brings his Washington insider perspective and in-depth analysis to both major headlines and stories while featuring leaders in D.C. and newsmakers across the country.</desc>
@@ -32940,17 +32995,17 @@ blunders.</desc>
         <desc>Your gateway to a world of conservative-based, informative, and unapologetic opinion plus straight forward news coverage.</desc>
         <icon src="https://images.pluto.tv/series/69549396b259a78ff09c68ca/tile_1768615914932.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6792c30abc03978b9b8bb832" start="20260502000500 +0000" stop="20260502015800 +0000">
+    <programme channel="6792c30abc03978b9b8bb832" start="20260502003000 +0000" stop="20260502022300 +0000">
         <title>Games of the Week</title>
         <desc>Top highlights, performances, and matchups from the best games in the NBA.</desc>
         <icon src="https://images.pluto.tv/series/67ee3981e680c6d5f6791ead/tile_1746688763540.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6792c30abc03978b9b8bb832" start="20260502015800 +0000" stop="20260502023000 +0000">
+    <programme channel="6792c30abc03978b9b8bb832" start="20260502022300 +0000" stop="20260502025600 +0000">
         <title>NBA On Fire</title>
         <desc>The Playoffs are heating up, delivering electrifying clashes as the first round comes to a thrilling finale!</desc>
         <icon src="https://images.pluto.tv/series/67b4a859f77b5e1d23c9f379/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6792c30abc03978b9b8bb832" start="20260502023000 +0000" stop="20260502045200 +0000">
+    <programme channel="6792c30abc03978b9b8bb832" start="20260502025600 +0000" stop="20260502051800 +0000">
         <title>Hardwood Classics</title>
         <desc>Zion Williamson puts up 37 points as the Pelicans race past the Timberwolves in a high-scoring affair. From May 1, 2021.</desc>
         <icon src="https://images.pluto.tv/series/67ad287f9730749ac8abe419/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
@@ -38694,6 +38749,11 @@ blunders.</desc>
         <title>Fire With Fire</title>
         <desc>A firefighter does something unexpected after a man that he has been ordered to testify against threatens him.</desc>
         <icon src="https://images.pluto.tv/series/658b8c857864330014287535/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="645e7828e1979c00087b75b4" start="20260502090300 +0000" stop="20260502111300 +0000">
+        <title>Conan the Barbarian</title>
+        <desc>The Cimmerian warrior slashes his way across Hyboria on a mission that begins as a personal vendetta but turns into an epic battle against a supernatural evil.</desc>
+        <icon src="https://images.pluto.tv/series/64f09cf3c5645000131bb2f7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="64b585f84ea480000838e446" start="20260502034500 +0000" stop="20260502060000 +0000">
         <title>Marvin's Room</title>
@@ -44803,6 +44863,11 @@ two women fight for the bride's bouquet.</desc>
         <desc>PBR Reading Round 1.</desc>
         <icon src="https://images.pluto.tv/series/6939a2ea0ddf7d2a40ae387a/tile_1777636841550.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="60d39387706fe50007fda8e8" start="20260502084726 +0000" stop="20260502104703 +0000">
+        <title>2026- PBR Velocity Series</title>
+        <desc>PBR Reading Championship Round.</desc>
+        <icon src="https://images.pluto.tv/series/6939a2ea0ddf7d2a40ae387a/tile_1777636841550.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="61e9af6bfbbcc6000700119b" start="20260502030000 +0000" stop="20260502050000 +0000">
         <title>Top Weather News, Regional Forecasts, Live Severe Coverage, and local Los Angeles weather.</title>
         <desc>Live weather updates every hour, regional forecasts, and your local Los Angeles weather on the 7's.</desc>
@@ -45103,22 +45168,22 @@ two women fight for the bride's bouquet.</desc>
         <desc>Voice of reason in a chaotic time.</desc>
         <icon src="https://images.pluto.tv/series/67b98478adb4b793c6db5866/tile_1768615914861.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6792c30abc03978b9b8bb832" start="20260502023000 +0000" stop="20260502045200 +0000">
+    <programme channel="6792c30abc03978b9b8bb832" start="20260502025600 +0000" stop="20260502051800 +0000">
         <title>Hardwood Classics</title>
         <desc>Zion Williamson puts up 37 points as the Pelicans race past the Timberwolves in a high-scoring affair. From May 1, 2021.</desc>
         <icon src="https://images.pluto.tv/series/67ad287f9730749ac8abe419/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6792c30abc03978b9b8bb832" start="20260502045200 +0000" stop="20260502064500 +0000">
+    <programme channel="6792c30abc03978b9b8bb832" start="20260502051800 +0000" stop="20260502071100 +0000">
         <title>Games of the Year</title>
         <desc>Relive the best games of the 2025=26 regular season!</desc>
         <icon src="https://images.pluto.tv/series/682e70cca9356a3062fe64ae/tile_1752617480749.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6792c30abc03978b9b8bb832" start="20260502064500 +0000" stop="20260502074600 +0000">
+    <programme channel="6792c30abc03978b9b8bb832" start="20260502071100 +0000" stop="20260502081200 +0000">
         <title>Basketcast</title>
         <desc>The best (and latest) analysis/commentary from various voices covering the league.</desc>
         <icon src="https://images.pluto.tv/series/6944d5f26d8434d421989bf1/tile_1771369909285.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6792c30abc03978b9b8bb832" start="20260502074600 +0000" stop="20260502093800 +0000">
+    <programme channel="6792c30abc03978b9b8bb832" start="20260502081200 +0000" stop="20260502100000 +0000">
         <title>Hardwood Classics</title>
         <desc>The Clippers earn their first-ever series win in 2006 WC First Round Gm 5 against the Nuggets.</desc>
         <icon src="https://images.pluto.tv/series/67ad287f9730749ac8abe419/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
@@ -48803,6 +48868,11 @@ two women fight for the bride's bouquet.</desc>
         <desc>Un almirante viudo de la Guardia costera y una viuda diseñadora de bolsos se enamoran y se casan, para la consternación de sus hijos, ocho de él y diez de ella.</desc>
         <icon src="https://images.pluto.tv/series/604bf6568c444e001aae8c60/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5f5136317aedfb0007016f93" start="20260502084500 +0000" stop="20260502110000 +0000">
+        <title>10 años</title>
+        <desc>Un grupo de amigos se reencuentran en la reunión de alumnos de su secundaria. Cada uno tiene una historia increíble para contar.</desc>
+        <icon src="https://images.pluto.tv/series/68d2e0230a7c328ed5a79cf6/tile_1758776008207.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="604928d54a4f730007ff76bc" start="20260502043000 +0000" stop="20260502053000 +0000">
         <title>CSI en español</title>
         <desc>Cuando el equipo de CSI encuentra un cuerpo cerca de una reserva forestal, descubren lo que podría ser un asesino en serie y su extraña guarida.</desc>
@@ -50623,10 +50693,10 @@ two women fight for the bride's bouquet.</desc>
         <desc>Ethan Hunt, a secret agent, is framed for the deaths of his espionage team and attempts to flee government assassins after him. He races against the clock in order to discover the truth.</desc>
         <icon src="https://images.pluto.tv/series/6255bf8878f6d300136e523d/tile_1769471284462.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="569546031a619b8f07ce6e25" start="20260502083000 +0000" stop="20260502084500 +0000">
-        <title>Pluto TV Horror</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/569546031a619b8f07ce6e25/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="569546031a619b8f07ce6e25" start="20260502063000 +0000" stop="20260502084500 +0000">
+        <title>The Faculty</title>
+        <desc>A group of small-town high school students discovers their teachers are under the control of mind-controlling alien parasites. From a smart script by Kevin Williamson (SCREAM), and directed by action-expert Robert Rodriguez (FROM DUSK TO DAWN).</desc>
+        <icon src="https://images.pluto.tv/series/5f7631e176c54900134c62a0/tile_1758639970739.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="569546031a619b8f07ce6e25" start="20260502084500 +0000" stop="20260502104500 +0000">
         <title>Stephen King's Thinner</title>
@@ -50673,10 +50743,10 @@ two women fight for the bride's bouquet.</desc>
         <desc>Bruce Lee faces an underground criminal element after members of his family begin disappearing. Now he must break his vow of non-violence to take on the terrifying "Big Boss."</desc>
         <icon src="https://images.pluto.tv/series/6414b5e0e24564001a79ee22/tile_1767957481008.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5a4d3a00ad95e4718ae8d8db" start="20260502083000 +0000" stop="20260502094500 +0000">
-        <title>Pluto TV Comedy</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/5a4d3a00ad95e4718ae8d8db/featuredImage_1731835745303.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="5a4d3a00ad95e4718ae8d8db" start="20260502074500 +0000" stop="20260502094500 +0000">
+        <title>Old School</title>
+        <desc>Three men are disenchanted with life and try to recapture their college days.</desc>
+        <icon src="https://images.pluto.tv/series/5fb6ade8dcedaf00138dc0ce/tile_1769541122094.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5a4d3a00ad95e4718ae8d8db" start="20260502094500 +0000" stop="20260502114500 +0000">
         <title>The Guilt Trip</title>
@@ -50688,15 +50758,10 @@ two women fight for the bride's bouquet.</desc>
         <desc>Jack Black is more hilarious than ever as Ignacio, a monastery cook who feeds orphan children by day and by night transforms himself into Nacho Libre, a notorious Luchador in stretchy pants.</desc>
         <icon src="https://images.pluto.tv/series/5a9ef3002a32513a0be76270/tile_1769540761826.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5a4d3a00ad95e4718ae8d8db" start="20260502134500 +0000" stop="20260502154500 +0000">
-        <title>Good Burger</title>
-        <desc>Kel are serving up laughs! They're the good guys in Good Burger, a zany comedy inspired by the popular Kel routine from Nickelodeon's hit series All That.</desc>
-        <icon src="https://images.pluto.tv/series/5d9b9ab302119c67cb64e9f7/tile_1769454005349.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5a66795ef91fef2c7031c599" start="20260502083000 +0000" stop="20260502090000 +0000">
-        <title>Pluto TV Romance</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/5a66795ef91fef2c7031c599/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="5a66795ef91fef2c7031c599" start="20260502063000 +0000" stop="20260502090000 +0000">
+        <title>Center Stage</title>
+        <desc>The American Ballet Company is not for the fainthearted, it's for the most gifted and beautiful ballet dancers alive. But you'll need more than mere physical prowess and determination to succeed. PG-13</desc>
+        <icon src="https://images.pluto.tv/series/5e3312c6df8ca78b89374eb0/tile_1767901682222.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5a66795ef91fef2c7031c599" start="20260502090000 +0000" stop="20260502113000 +0000">
         <title>How to Lose a Guy in 10 Days</title>
@@ -50707,11 +50772,6 @@ two women fight for the bride's bouquet.</desc>
         <title>Failure to Launch</title>
         <desc>Tripp, a 35 year-old who still lives with his parents.  And who can blame him. It’s free, he’s got a great room, and mom does the laundry.  Desperate to get him out of the house, his parents hire a gorgeous woman, Paula, to give him a little…push.</desc>
         <icon src="https://images.pluto.tv/series/5d420adb6f10d8274f066ffc/tile_1769120657302.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5a66795ef91fef2c7031c599" start="20260502133000 +0000" stop="20260502153000 +0000">
-        <title>Serendipity</title>
-        <desc>In the course of one magical evening, Jonathan (John Cusack) and Sara (Kate Beckinsale) meet unexpectedly, but part ways, determining that fate will guide their future if they're meant to be together.</desc>
-        <icon src="https://images.pluto.tv/series/6001d4bb8967b3001acbfc89/tile_1769555883615.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5b4e69e08291147bd04a9fd7" start="20260502080006 +0000" stop="20260502103006 +0000">
         <title>Memento</title>
@@ -50728,20 +50788,20 @@ two women fight for the bride's bouquet.</desc>
         <desc>A highly trained operative, is double crossed &amp; left for dead by someone in her own agency. When things go haywire, she finds ways to turn the tables on her ruthless adversary.</desc>
         <icon src="https://images.pluto.tv/series/58cb2bd23a166d33e37636b7/tile_1774278721313.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5b4e92e4694c027be6ecece1" start="20260502083000 +0000" stop="20260502120000 +0000">
-        <title>Pluto TV Drama</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/5b4e92e4694c027be6ecece1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="5b4e92e4694c027be6ecece1" start="20260502071500 +0000" stop="20260502100000 +0000">
+        <title>Yentl</title>
+        <desc>Barbra Streisand stars in this beautifully portrayed story of a young independent woman who is forced to masquerade as a boy in order to pursue her love of knowledge.</desc>
+        <icon src="https://images.pluto.tv/series/59014227a1041ca52b5ab8ae/tile_1768240444493.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5b4e92e4694c027be6ecece1" start="20260502100000 +0000" stop="20260502120000 +0000">
+        <title>The Boy In The Striped Pajamas</title>
+        <desc>A forbidden friendship forms between Bruno, the son of a Nazi commandant, and Schmuel, a Jewish boy held captive in a concentration camp. Though separated physically by a barbed wire fence, their lives become inescapably intertwined.</desc>
+        <icon src="https://images.pluto.tv/series/6790e90c5778a00013324eca/tile_1766149561717.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5b4e92e4694c027be6ecece1" start="20260502120000 +0000" stop="20260502150000 +0000">
         <title>Defiance</title>
         <desc>Defiance is a riveting adventure that showcases the extraordinary true story of the Bielski brothers, simple farmers -outnumbered and outgunned- who turned a group of war refugees into powerful freedom fighters.</desc>
         <icon src="https://images.pluto.tv/series/58de8ea7e8f51b555ac38e13/tile_1769035322059.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5b4e92e4694c027be6ecece1" start="20260502150000 +0000" stop="20260502171500 +0000">
-        <title>School Ties</title>
-        <desc>After receiving a scholarship to an exclusive prep school, working-class teen David Greene becomes a star athlete and wins the attention of a beautiful debutante.</desc>
-        <icon src="https://images.pluto.tv/series/5c48dc5b1390b6759598ca92/tile_1769554801763.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5b4e94282d4ec87bdcbb87cd" start="20260502070004 +0000" stop="20260502093004 +0000">
         <title>Grey Owl</title>
@@ -50783,15 +50843,10 @@ two women fight for the bride's bouquet.</desc>
         <desc>Nora &amp; Hae Sung, two deeply connected childhood friends, are wrest apart after Nora's family emigrates from South Korea. Decades later, they are reunited for one fateful week as they confront destiny, love, and the choices that make a life.</desc>
         <icon src="https://images.pluto.tv/series/69e006282237f29176c3e802/tile_1776289320998.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5ba3fb9c4b078e0f37ad34e8" start="20260502113000 +0000" stop="20260502153000 +0000">
-        <title>Pluto TV Spotlight</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/5ba3fb9c4b078e0f37ad34e8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
-    </programme>
-    <programme channel="5ba3fb9c4b078e0f37ad34e8" start="20260502153000 +0000" stop="20260502183000 +0000">
-        <title>Burning</title>
-        <desc>Hailed by critics as one of the best films of the year, BURNING is a searing romantic thriller about a young man whose suspicions spin out of control when the free-spirited woman he loves disappears.</desc>
-        <icon src="https://images.pluto.tv/series/60a856365c4082001373c650/tile_1761226205056.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="5ba3fb9c4b078e0f37ad34e8" start="20260502113000 +0000" stop="20260502134500 +0000">
+        <title>Better Luck Tomorrow</title>
+        <desc>To his classmates and teachers, high-schooler Ben Manibag appears to be the model student: a perfectionist and overachiever. But underneath this persona is a darker side. Ben and his bored high-school buddies lead double lives.</desc>
+        <icon src="https://images.pluto.tv/series/58de8eaee8f51b555ac38f7e/tile_1774909081041.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5c2d64ffbdf11b71587184b8" start="20260502083000 +0000" stop="20260502090000 +0000">
         <title>Everybody Hates Chris</title>
@@ -50849,19 +50904,14 @@ two women fight for the bride's bouquet.</desc>
         <icon src="https://images.pluto.tv/series/6331f6b548fe5f0013fae4f1/tile_1775489760924.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5c665db3e6c01b72c4977bc2" start="20260502103001 +0000" stop="20260502124501 +0000">
-        <title>Pluto TV Cult Films</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/5c665db3e6c01b72c4977bc2/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <title>The Relic</title>
+        <desc>Come in—if you dare. The opening-night gala for a new exhibit at Chicago's natural history museum is underway. But be advised: something terrifying wants to make sure no one ever leaves.</desc>
+        <icon src="https://images.pluto.tv/series/5f32f623c885580013248001/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5c665db3e6c01b72c4977bc2" start="20260502124501 +0000" stop="20260502144501 +0000">
         <title>Cube</title>
         <desc>Seven complete strangers of widely varying personality characteristics are involuntarily placed in an endless maze containing deadly traps.</desc>
         <icon src="https://images.pluto.tv/series/58cb2be53a166d33e37637b8/tile_1751324066721.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5c665db3e6c01b72c4977bc2" start="20260502144501 +0000" stop="20260502171501 +0000">
-        <title>Memento</title>
-        <desc>A man with short-term memory loss attempts to track down his wife's murderer.</desc>
-        <icon src="https://images.pluto.tv/series/64ff3987cecd3f001332df47/tile_1776979829667.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5c6dc88fcd232425a6e0f06e" start="20260502074500 +0000" stop="20260502093000 +0000">
         <title>Paranormal Activity: The Marked Ones</title>
@@ -50869,19 +50919,14 @@ two women fight for the bride's bouquet.</desc>
         <icon src="https://images.pluto.tv/series/5d043a8979c56a027e04bd78/tile_1769541842023.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5c6dc88fcd232425a6e0f06e" start="20260502093000 +0000" stop="20260502113000 +0000">
-        <title>Pluto TV Terror</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/5c6dc88fcd232425a6e0f06e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <title>Paranormal Activity: The Ghost Dimension</title>
+        <desc>For the first time you will SEE the activity... When a new family moves into a familiar house, they discover a mysterious video camera that reveals the presence of a demonic threat and soon find themselves terrorized by an ancient evil.</desc>
+        <icon src="https://images.pluto.tv/series/5bad6e82ac5d753a4b63dace/tile_1769541842087.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5c6dc88fcd232425a6e0f06e" start="20260502113000 +0000" stop="20260502131500 +0000">
         <title>Feast</title>
         <desc>Customers locked inside a bar are forced to fight monsters.</desc>
         <icon src="https://images.pluto.tv/series/632ccebd7d18170013f96987/tile_1768749841012.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5c6dc88fcd232425a6e0f06e" start="20260502131500 +0000" stop="20260502154500 +0000">
-        <title>Deliver Us from Evil (2014)</title>
-        <desc>A NYPD officer (Eric Bana) and unconventional priest Mendoza (Edgar Ramírez) who join forces to investigate a series of disturbing &amp; inexplicable crimes. Together, they must combat the possessions that are terrorizing their city before it's too late.</desc>
-        <icon src="https://images.pluto.tv/series/67d879a4763d6b068fd77cfc/tile_1774561321530.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5ca525b650be2571e3943c63" start="20260502064500 +0000" stop="20260502091500 +0000">
         <title>Something Wild</title>
@@ -50913,15 +50958,20 @@ two women fight for the bride's bouquet.</desc>
         <desc>Terms of Endearment dazzled critics and audiences alike with its believable, insightful story of two captivating people, mother and daughter, unforgettably played by Shirley MacLaine and Debra Winger.</desc>
         <icon src="https://images.pluto.tv/series/5cd3394a34421b678dd228d4/tile_1769728681633.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5cb0cae7a461406ffe3f5213" start="20260502133000 +0000" stop="20260502153000 +0000">
+        <title>Clue</title>
+        <desc>Meet all the notorious suspects and discover all their foul play things. You'll love their dastardly doings as the bodies and the laughs pile up before your eyes. Featuring all three surprise endings!!</desc>
+        <icon src="https://images.pluto.tv/series/5a9da841fb6f2f17481afa5a/tile_1769024891245.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5f4d8594eb979c0007706de7" start="20260502063000 +0000" stop="20260502090000 +0000">
         <title>Seven Psychopaths</title>
         <desc>A struggling screenwriter inadvertently becomes entangled in the Los Angeles criminal underworld after his oddball friends kidnap a gangster's beloved Shih Tzu.</desc>
         <icon src="https://images.pluto.tv/series/62047b7be9e2e90013923075/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5f4d8594eb979c0007706de7" start="20260502090000 +0000" stop="20260502110000 +0000">
-        <title>Pluto TV Crime Movies</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/5f4d8594eb979c0007706de7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <title>King of New York</title>
+        <desc>Recently freed from prison, Frank White (Christopher Walken) begins to exterminate the drug lords who rose to power in his absence. When a group of enraged cops declares war on him, Frank's answer is to put a contract out on the cops.</desc>
+        <icon src="https://images.pluto.tv/series/5da0c76d69737095ea24f3e1/tile_1760034724687.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5f4d8594eb979c0007706de7" start="20260502110000 +0000" stop="20260502123000 +0000">
         <title>MAFIA</title>
@@ -50947,6 +50997,11 @@ two women fight for the bride's bouquet.</desc>
         <title>Source Code</title>
         <desc>Jake Gyllenhaal stars in this action thriller about a man who awakens in another man’s body to discover only he has the ability to stop a terrorist attack on a commuter train.</desc>
         <icon src="https://images.pluto.tv/series/62ad12ba85514f0013bd87e6/tile_1771706881251.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f4d863b98b41000076cd061" start="20260502124500 +0000" stop="20260502144500 +0000">
+        <title>Timecop</title>
+        <desc>Max Walker, an officer for a security agency that regulates time travel, must fend for his life against a shady politician who's intent on changing the past to control the future.</desc>
+        <icon src="https://images.pluto.tv/series/6494a2cc935ab00013595e1b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5f4d86f519358a00072b978e" start="20260502080000 +0000" stop="20260502114500 +0000">
         <title>Braveheart</title>
@@ -50989,14 +51044,9 @@ two women fight for the bride's bouquet.</desc>
         <icon src="https://images.pluto.tv/series/699e2ed877bd3640dee95d2c/tile_1772055721127.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="617b37b361e0fd0008cfd8c5" start="20260502123000 +0000" stop="20260502141500 +0000">
-        <title>Pluto TV Reaction</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/617b37b361e0fd0008cfd8c5/featuredImage_1731836399551.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
-    </programme>
-    <programme channel="617b37b361e0fd0008cfd8c5" start="20260502141500 +0000" stop="20260502160000 +0000">
-        <title>Ghost In The Shell</title>
-        <desc>2029 – A female government cyber agent and the Internal Bureau of Investigations are hot on the trail of a "The Puppet Master" – a computer virus capable of invading cybernetic brains and altering its victim’s memory.</desc>
-        <icon src="https://images.pluto.tv/series/5e95e858c733d6001a19bda6/tile_1759756321218.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <title>Cyborg</title>
+        <desc>Jean-Claude Van Damme stars in this adrenaline-charged sci-fi thriller as Gibson Rickenbacker, the future's most fearsome warrior. In the wake of a plague, Rickenbacker must rescue the only person who can develop a vaccine and save civilization.</desc>
+        <icon src="https://images.pluto.tv/series/60f70f2fa038550014bfff34/tile_1775156041531.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="62ba60f059624e000781c436" start="20260502070000 +0000" stop="20260502094500 +0000">
         <title>Rules of Engagement</title>
@@ -51078,15 +51128,15 @@ two women fight for the bride's bouquet.</desc>
         <desc>OSCAR-winning Meryl Streep is Margaret Thatcher in this insightful and intimate portrait of the first and only female Prime Minister of the United Kingdom.</desc>
         <icon src="https://images.pluto.tv/series/6230cfe8d1630000138f368a/tile_1761109639710.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64b585f84ea480000838e446" start="20260502104500 +0000" stop="20260502153000 +0000">
-        <title>Pluto TV Icons</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/64b585f84ea480000838e446/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="64b585f84ea480000838e446" start="20260502104500 +0000" stop="20260502130000 +0000">
+        <title>Postcards from the Edge</title>
+        <desc>Meryl Streep, Shirley MacLaine, Gene Hackman, Dennis Quaid and Richard Dreyfuss star in Mike Nichols' hilarious blockbuster film about a very real mother-daughter relationship set against the backdrop of today's Hollywood.  Rated: R</desc>
+        <icon src="https://images.pluto.tv/series/5b7d82aba07e609113d78586/tile_1772065801206.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64b585f84ea480000838e446" start="20260502153000 +0000" stop="20260502181500 +0000">
-        <title>The Manchurian Candidate</title>
-        <desc>As the entire nation watches the presidential campaign hurtle towards Election Day, one soldier races to uncover the conspiracy behind it - a conspiracy that seeks to destroy democracy itself.</desc>
-        <icon src="https://images.pluto.tv/series/5bd3337b67f34cef7af4480d/tile_1771346520959.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="64b585f84ea480000838e446" start="20260502130000 +0000" stop="20260502153000 +0000">
+        <title>Heartburn</title>
+        <desc>She's a magazine writer who gives up her career for love and family. He's a playboy newspaper columnist who can't quite give up his old tricks. And if that combination doesn't give a relationship Heartburn, nothing will!</desc>
+        <icon src="https://images.pluto.tv/series/5d9b9ab002119c67cb64e992/tile_1774974601122.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="663946c1b18d700008d9c168" start="20260502083000 +0000" stop="20260502110000 +0000">
         <title>Beyond The Lights</title>
@@ -51154,19 +51204,14 @@ two women fight for the bride's bouquet.</desc>
         <icon src="https://images.pluto.tv/series/6079d2e4a224c9001bba76b9/tile_1769106435972.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="673247127d5da5000817b4d6" start="20260502090000 +0000" stop="20260502114500 +0000">
-        <title>Pluto TV Trending Now</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/673247127d5da5000817b4d6/featuredImage_1732662375073.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <title>Shooter</title>
+        <desc>Determined to prove his innocence in a double-cross, Bob Lee Swagger is now in a high-tension race from every law enforcement agency in the US and a shadowy organization that wants him dead.</desc>
+        <icon src="https://images.pluto.tv/series/5f4eaef461f1b1001aff22ac/tile_1777563002454.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="673247127d5da5000817b4d6" start="20260502114500 +0000" stop="20260502143000 +0000">
         <title>Primal Fear</title>
         <desc>Courtroom thriller about a slick, hotshot lawyer (Richard Gere) who takes the seemingly unwinnable case of a young altar boy (Edward Norton) accused of murdering an eminent catholic priest.</desc>
         <icon src="https://images.pluto.tv/series/5bd34444603aedec59ff56d5/tile_1769549042433.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="673247127d5da5000817b4d6" start="20260502143000 +0000" stop="20260502171500 +0000">
-        <title>Top Gun: Maverick</title>
-        <desc>Pete "Maverick" Mitchell keeps pushing the envelope after years of service as one of the Navy's top aviators. He must soon confront the past while training a new squad of graduates for a dangerous mission that demands the ultimate sacrifice.</desc>
-        <icon src="https://images.pluto.tv/series/69ef9a48bf77711224de718e/tile_1777390596715.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="68c32d88f56983aba40052bd" start="20260502064500 +0000" stop="20260502084500 +0000">
         <title>Fatal Beauty</title>
@@ -51182,6 +51227,11 @@ two women fight for the bride's bouquet.</desc>
         <title>Beverly Hills Cop</title>
         <desc>The heat is on in this fast-paced action-comedy starring Eddie Murphy as Axel Foley, a street smart Detroit cop tracking down his best friend's killer in Beverly Hills.</desc>
         <icon src="https://images.pluto.tv/series/629ff5fdcb032400134d4195/tile_1774550533741.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68c32d88f56983aba40052bd" start="20260502124500 +0000" stop="20260502150000 +0000">
+        <title>Beverly Hills Cop II</title>
+        <desc>The heat's back on! And Eddie Murphy is cool as ever in this sizzling, smash-hit sequel to Beverly Hills Cop.</desc>
+        <icon src="https://images.pluto.tv/series/629ff601cb032400134d421a/tile_1768951084574.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="545943f1c9f133a519bbac92" start="20260502083000 +0000" stop="20260502091500 +0000">
         <title>Backlot: MST3K 25th Anniversary</title>
@@ -57189,6 +57239,12 @@ in his automatic seatbelt.</desc>
         extreme bull riding action.</desc>
         <icon src="https://images.pluto.tv/series/6939a2ea0ddf7d2a40ae387a/tile_1777636841550.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="60d39387706fe50007fda8e8" start="20260502124850 +0000" stop="20260502143455 +0000">
+        <title>2026- PBR Velocity Series</title>
+        <desc>The 2026 VT Palm Springs Day 1 brings high-octane intensity to the
+        Acrisure Arena in the desert.</desc>
+        <icon src="https://images.pluto.tv/series/6939a2ea0ddf7d2a40ae387a/tile_1777636841550.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="61e9af6bfbbcc6000700119b" start="20260502070000 +0000" stop="20260502090000 +0000">
         <title>Top Weather News, Regional Forecasts, Live Severe Coverage, and local Los Angeles weather.</title>
         <desc>Live weather updates every hour, regional forecasts, and your local Los Angeles weather on the 7's.</desc>
@@ -57444,15 +57500,10 @@ in his automatic seatbelt.</desc>
         <desc>Breaking news for the weekend.</desc>
         <icon src="https://images.pluto.tv/series/66c7a0996ec6ad0013cedf6a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6792c30abc03978b9b8bb832" start="20260502074600 +0000" stop="20260502093800 +0000">
+    <programme channel="6792c30abc03978b9b8bb832" start="20260502081200 +0000" stop="20260502100000 +0000">
         <title>Hardwood Classics</title>
         <desc>The Clippers earn their first-ever series win in 2006 WC First Round Gm 5 against the Nuggets.</desc>
         <icon src="https://images.pluto.tv/series/67ad287f9730749ac8abe419/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6792c30abc03978b9b8bb832" start="20260502093800 +0000" stop="20260502100000 +0000">
-        <title>G League Chronicles</title>
-        <desc>All 30 NBA teams run G League affiliates; President Shareef Abdur-Rahim reflects on its 25th season impact.</desc>
-        <icon src="https://images.pluto.tv/series/69cfba7f5228f729651f1a54/tile_1775848539271.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6792c30abc03978b9b8bb832" start="20260502100000 +0000" stop="20260502120800 +0000">
         <title>Hardwood Classics</title>
@@ -58499,10 +58550,50 @@ in his automatic seatbelt.</desc>
         <desc>A wholesale deal in Pinellas Park looks like a three bed house with potential, but when they get there it seems to be more trouble than it's worth.</desc>
         <icon src="https://images.pluto.tv/series/65b1887970ac440013378436/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5e84f54a82f05300080e6746" start="20260502083000 +0000" stop="20260502123000 +0000">
+    <programme channel="5e84f54a82f05300080e6746" start="20260502081836 +0000" stop="20260502084838 +0000">
         <title>America's Test Kitchen</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/5e84f54a82f05300080e6746/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <desc>A sticky bun crumb should be tender and feathery and the sticky glaze gently chewy and gooey.</desc>
+        <icon src="https://images.pluto.tv/series/69978f1aaab7b257ba88aae3/tile_1777656627073.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5e84f54a82f05300080e6746" start="20260502084838 +0000" stop="20260502092130 +0000">
+        <title>Julia At Home</title>
+        <desc>Julia makes anise cookies, chocolate crinkle cookies, wreath cookies, gingerbread cookies, and chocolate bark.</desc>
+        <icon src="https://images.pluto.tv/series/69a09c707ec015be5672c6ee/tile_1777656627998.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5e84f54a82f05300080e6746" start="20260502092130 +0000" stop="20260502100001 +0000">
+        <title>America's Test Kitchen</title>
+        <desc>We barbecue a whole side of salmon that's infused with real wood flavor, with a side of cool cucumber salad.</desc>
+        <icon src="https://images.pluto.tv/series/69978f1aaab7b257ba88aae3/tile_1777656627073.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5e84f54a82f05300080e6746" start="20260502100001 +0000" stop="20260502102919 +0000">
+        <title>America's Test Kitchen</title>
+        <desc>Pasta Cacio e Uova, Orecchiette with Broccoli Rabe and Sausage; chef’s knives under $75.</desc>
+        <icon src="https://images.pluto.tv/series/69978f1aaab7b257ba88aae3/tile_1777656627073.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5e84f54a82f05300080e6746" start="20260502102919 +0000" stop="20260502105842 +0000">
+        <title>America's Test Kitchen</title>
+        <desc>Falafel, Harira (Moroccan Lentil &amp; Chickpea Soup);</desc>
+        <icon src="https://images.pluto.tv/series/69978f1aaab7b257ba88aae3/tile_1777656627073.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5e84f54a82f05300080e6746" start="20260502105842 +0000" stop="20260502112738 +0000">
+        <title>America's Test Kitchen</title>
+        <desc>Bridget, Julia's Everyday Pad Thai; coconut milk tasting; top Electric Kettles; Elle's Panang Beef Curry.</desc>
+        <icon src="https://images.pluto.tv/series/69978f1aaab7b257ba88aae3/tile_1777656627073.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5e84f54a82f05300080e6746" start="20260502112738 +0000" stop="20260502120005 +0000">
+        <title>America's Test Kitchen</title>
+        <desc>Skillet-Roasted Chicken Breast, Brown Rice Bowl with Vegetables &amp; Salmon; sriracha; healthy gadgets</desc>
+        <icon src="https://images.pluto.tv/series/69978f1aaab7b257ba88aae3/tile_1777656627073.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5e84f54a82f05300080e6746" start="20260502120005 +0000" stop="20260502122705 +0000">
+        <title>Cook's Country</title>
+        <desc>Seattle Chicken Teriyaki, Miso Black Cod; a visit to Seattle; the story of Chef Nobu</desc>
+        <icon src="https://images.pluto.tv/series/69f1df5869b4b3cf5448cf27/tile_1777656627666.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5e84f54a82f05300080e6746" start="20260502122705 +0000" stop="20260502125623 +0000">
+        <title>America's Test Kitchen</title>
+        <desc>Roast Chicken with Couscous, Roasted Red Peppers, and Basil; Rhubarb Upside-Down Cake</desc>
+        <icon src="https://images.pluto.tv/series/69978f1aaab7b257ba88aae3/tile_1777656627073.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="601a0342dcf4370007566891" start="20260502082600 +0000" stop="20260502085700 +0000">
         <title>Tiny House Hunting</title>
@@ -60845,6 +60936,11 @@ Would you be able to help me dance again?</desc>
         <desc>Después de que su prometido muere inesperadamente, una mujer decide aceptar la vida y seguir su sueño de trabajar con chocolate.</desc>
         <icon src="https://images.pluto.tv/series/5c53518e2ddc23e3c896eb5f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5cf96b1c4f1ca3f0629f4bf0" start="20260502131500 +0000" stop="20260502150000 +0000">
+        <title>Todo incluido</title>
+        <desc>Una familia sin pretenciones en vacaciones encuentra lo inesperado cuando un huracán los obliga a estar encerrados y se revelan secretos impactantes.</desc>
+        <icon src="https://images.pluto.tv/series/5c587eb155c5631503e5d247/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5cf96c0222df39f1a338d163" start="20260502061500 +0000" stop="20260502084500 +0000">
         <title>Madre</title>
         <desc>El comisionado publica un reporte de la desaparición de Turna y la policía comienza a investigar. Preocupada por lo que esto pueda significar para ella, Zeynep toma una gran decisión sobre su vida.</desc>
@@ -60858,6 +60954,11 @@ Would you be able to help me dance again?</desc>
     <programme channel="5cf96c0222df39f1a338d163" start="20260502111500 +0000" stop="20260502134500 +0000">
         <title>Madre</title>
         <desc>Sinan habla con Cahide sobre la desaparición de Zeynep. Sule pierde el poder sobre su vida. Zeynep, Turna y Gonul se instalan en un pequeño hotel y disfrutan de un momento familiar.</desc>
+        <icon src="https://images.pluto.tv/series/64d6b48d8f763a0013e9a828/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5cf96c0222df39f1a338d163" start="20260502134500 +0000" stop="20260502161500 +0000">
+        <title>Madre</title>
+        <desc>Zeynep tiene cargos por secuestro de niños. Turna es devuelta al cargo de Sule y ahora debe recurrir a su fe y esperar que volverá a estar con Zeynep para poder sobrevivir.</desc>
         <icon src="https://images.pluto.tv/series/64d6b48d8f763a0013e9a828/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5cf96cc422df39f1a338d165" start="20260502080000 +0000" stop="20260502090000 +0000">
@@ -61129,6 +61230,11 @@ Would you be able to help me dance again?</desc>
         <title>Una chica en apuros</title>
         <desc>Las risas no paran cuando Viola, disfrazada de su hermano gemelo, Sebastian, se une al equipo de fútbol masculino de la escuela secundaria y los ayuda a ganar el gran partido mientras se enamora inesperadamente de Duke, el guapo delantero estrella.</desc>
         <icon src="https://images.pluto.tv/series/65d6b3115c25f60013dd9201/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f5136317aedfb0007016f93" start="20260502131500 +0000" stop="20260502151500 +0000">
+        <title>Volando Alto</title>
+        <desc>Gwyneth Paltrow protagoniza en esta comedia hilarante sobre una chica de pueblo con grandes planes. Cuando se propone ser azafata internacional de primera clase, Donna se arriesga y sale a perseguir su sueño.</desc>
+        <icon src="https://images.pluto.tv/series/65b32fa8e764c00014dfab15/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="604928d54a4f730007ff76bc" start="20260502083000 +0000" stop="20260502093000 +0000">
         <title>CSI en español</title>
@@ -62890,6 +62996,11 @@ Would you be able to help me dance again?</desc>
         <desc>After a successful heist, Porter is left for dead. Once he recovers, he seeks vengeance and wants his share of the money.</desc>
         <icon src="https://images.pluto.tv/series/6605fd793e3d5000131975fb/tile_1776719881989.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5b4e69e08291147bd04a9fd7" start="20260502164506 +0000" stop="20260502190006 +0000">
+        <title>Limitless</title>
+        <desc>A mysterious pill that enables the user to access 100% of his brain's abilities transforms a struggling writer into a financial wizard, but it also puts him in a new world with many dangers.</desc>
+        <icon src="https://images.pluto.tv/series/6762f2ebd620780013f65f33/tile_1761120472865.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5b4e92e4694c027be6ecece1" start="20260502120000 +0000" stop="20260502150000 +0000">
         <title>Defiance</title>
         <desc>Defiance is a riveting adventure that showcases the extraordinary true story of the Bielski brothers, simple farmers -outnumbered and outgunned- who turned a group of war refugees into powerful freedom fighters.</desc>
@@ -63079,6 +63190,11 @@ Would you be able to help me dance again?</desc>
         <title>Project Almanac</title>
         <desc>When five teens discover a machine that can send them back in time, the possibilities seem endless.  But by changing the past, they have threatened the future of our world.  Can they undo the damage they have unleashed before it’s too late?</desc>
         <icon src="https://images.pluto.tv/series/5bb397682c31006f5cdf9307/tile_1771348681043.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f4d863b98b41000076cd061" start="20260502170000 +0000" stop="20260502190000 +0000">
+        <title>The One</title>
+        <desc>In a stunning dual role, international action star Jet Li portrays Gabriel Yulaw, a police officer confronted with a sinister form of himself escaped from an advanced, parallel universe and intent on killing Gabriel.</desc>
+        <icon src="https://images.pluto.tv/series/621fdda7de15be001348b1f6/tile_1776295445790.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5f4d86f519358a00072b978e" start="20260502114500 +0000" stop="20260502144500 +0000">
         <title>The Talented Mr. Ripley</title>
@@ -63399,6 +63515,11 @@ Would you be able to help me dance again?</desc>
         <title>RiffTrax: A Dangerous Man</title>
         <desc>Please join us for the first Seagal movie in our history: A Dangerous Man. This feature is a parody and contains the original movie combined with comedic commentary by Mike, Kevin and Bill from MST3K.</desc>
         <icon src="https://images.pluto.tv/series/68f681134ca72e304f1863d8/tile_1765220403522.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="58d947b9e420d8656ee101ab" start="20260502164536 +0000" stop="20260502181536 +0000">
+        <title>RiffTrax: Dangerous Men</title>
+        <desc>There is absolutely nothing else in the RiffTrax catalog like Dangerous Men. This feature is a parody and contains the original movie combined with a comedic commentary by Mike, Kevin and Bill from MST3K.</desc>
+        <icon src="https://images.pluto.tv/series/68f91d0869032f4edf403569/tile_1761162378209.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5ca671f215a62078d2ec0abf" start="20260502123000 +0000" stop="20260502130000 +0000">
         <title>Nathan For You</title>
@@ -65550,29 +65671,19 @@ singing solo.</desc>
         <desc>San Francisco is in a chaotic situation, with riots everywhere. Piper and Leo find a mysterious man in the middle of the confusion, who vanishes when they chase him.</desc>
         <icon src="https://images.pluto.tv/series/6139076231d18b001487705a/tile_1774886761370.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f31fd1b4c510e00071c3103" start="20260502114500 +0000" stop="20260502124500 +0000">
-        <title>The Closer</title>
-        <desc>Brenda bonds with a robbery suspect while transporting him.</desc>
-        <icon src="https://images.pluto.tv/series/66d5f1e322dfe900130ad5c1/tile_1765417815766.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f31fd1b4c510e00071c3103" start="20260502124500 +0000" stop="20260502134500 +0000">
-        <title>The Closer</title>
-        <desc>Griffith Park is on fire and the Priority Homicide Division is brought in to investigate. When a nemesis (JASON O'MARA) of Brenda's enters the scene, things turn ugly.</desc>
-        <icon src="https://images.pluto.tv/series/66d5f1e322dfe900130ad5c1/tile_1765417815766.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f31fd1b4c510e00071c3103" start="20260502134500 +0000" stop="20260502144500 +0000">
-        <title>The Closer</title>
-        <desc>A recently paroled murderer is found dead, the victim of a hit and run. Brenda must tread carefully -- the crime for which the victim was convicted was a major press event in L.A.</desc>
-        <icon src="https://images.pluto.tv/series/66d5f1e322dfe900130ad5c1/tile_1765417815766.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="5f31fd1b4c510e00071c3103" start="20260502144500 +0000" stop="20260502154500 +0000">
-        <title>The Closer</title>
-        <desc>A teenage girl dies in an apparent suicide after accusing the son of an L.A. County sheriff of raping her. DANIEL BALDWIN ("Homicide: Life on the Street") guest stars.</desc>
-        <icon src="https://images.pluto.tv/series/66d5f1e322dfe900130ad5c1/tile_1765417815766.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="5f31fd1b4c510e00071c3103" start="20260502123000 +0000" stop="20260502154500 +0000">
+        <title>Pluto TV Crime Drama</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/5f31fd1b4c510e00071c3103/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="5f31fd1b4c510e00071c3103" start="20260502154500 +0000" stop="20260502164500 +0000">
         <title>Rizzoli &amp; Isles</title>
         <desc>When a woman finds her husband has been murdered, the ensuing investigation reveals that the victim may have been living a double life.</desc>
+        <icon src="https://images.pluto.tv/series/66d0bb64a1c89200137fb0e6/tile_1765409786111.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f31fd1b4c510e00071c3103" start="20260502164500 +0000" stop="20260502174500 +0000">
+        <title>Rizzoli &amp; Isles</title>
+        <desc>In the season premiere, when it appears one of the Boston Police Department's own has shot an unarmed man, the team must find the real killer while clearing the detective's name.</desc>
         <icon src="https://images.pluto.tv/series/66d0bb64a1c89200137fb0e6/tile_1765409786111.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5f4d83e0a382c00007bc02e7" start="20260502123000 +0000" stop="20260502133000 +0000">
@@ -68960,10 +69071,10 @@ singing solo.</desc>
         <desc>Hard-hitting analysis and opinion on the latest news and events delivered.</desc>
         <icon src="https://images.pluto.tv/series/6601b4c3506ec60013da8593/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="55b179af994403942f3061d6" start="20260502160000 +0000" stop="20260502180000 +0000">
-        <title>Newsmax</title>
-        <desc>Newsmax delivers compelling breaking news and analysis with the latest on politics, finance and health — including great conversation and interviews with high-profile talent and contributors from across the political spectrum.</desc>
-        <icon src="https://images.pluto.tv/series/610437b68839b90013426f26/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="55b179af994403942f3061d6" start="20260502160000 +0000" stop="20260502170000 +0000">
+        <title>The Royal Visit</title>
+        <desc>Bob Brooks and Katrina Szish present highlights of King Charles III and Queen Camilla's U.S. state visit, including his address to Congress and the White House state dinner.</desc>
+        <icon src="https://images.pluto.tv/series/69f4dc5328834670fb58853d/tile_1777654868604.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="55b285cd2665de274553d66f" start="20260502123000 +0000" stop="20260502130000 +0000">
         <title>Politics Hub</title>
@@ -69326,6 +69437,12 @@ singing solo.</desc>
         <title>2026- PBR Velocity Series</title>
         <desc>The 2026 VT Palm Springs Day 2 finale crowns a champion at the Acrisure
         Arena in the desert.</desc>
+        <icon src="https://images.pluto.tv/series/6939a2ea0ddf7d2a40ae387a/tile_1777636841550.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60d39387706fe50007fda8e8" start="20260502163105 +0000" stop="20260502175754 +0000">
+        <title>2026- PBR Velocity Series</title>
+        <desc>The PBR Velocity Tour bucks into the Save Mart Center for Round 1 in
+        Fresno, Calif. VT 2026.</desc>
         <icon src="https://images.pluto.tv/series/6939a2ea0ddf7d2a40ae387a/tile_1777636841550.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="61e9af6bfbbcc6000700119b" start="20260502110000 +0000" stop="20260502130000 +0000">
@@ -77687,12 +77804,17 @@ singing solo.</desc>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/54ff7ba69222cb1c2624c584/featuredImage_1756948295594.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="55b179af994403942f3061d6" start="20260502160000 +0000" stop="20260502180000 +0000">
-        <title>Newsmax</title>
-        <desc>Newsmax delivers compelling breaking news and analysis with the latest on politics, finance and health — including great conversation and interviews with high-profile talent and contributors from across the political spectrum.</desc>
-        <icon src="https://images.pluto.tv/series/610437b68839b90013426f26/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="55b179af994403942f3061d6" start="20260502160000 +0000" stop="20260502170000 +0000">
+        <title>The Royal Visit</title>
+        <desc>Bob Brooks and Katrina Szish present highlights of King Charles III and Queen Camilla's U.S. state visit, including his address to Congress and the White House state dinner.</desc>
+        <icon src="https://images.pluto.tv/series/69f4dc5328834670fb58853d/tile_1777654868604.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="55b179af994403942f3061d6" start="20260502180000 +0000" stop="20260502203000 +0000">
+    <programme channel="55b179af994403942f3061d6" start="20260502170000 +0000" stop="20260502173000 +0000">
+        <title>Newsmax News In-Depth</title>
+        <desc>Bianca de la Garza looks at the big stories of the week, politics, policy, the economy and much more.</desc>
+        <icon src="https://images.pluto.tv/series/60f5d2f8b93efb0013862d12/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="55b179af994403942f3061d6" start="20260502173000 +0000" stop="20260502203000 +0000">
         <title>Newsmax2</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/55b179af994403942f3061d6/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
